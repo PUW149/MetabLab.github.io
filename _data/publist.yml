@@ -1,9 +1,8 @@
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+- title: "Intermediates of peroxisomal beta-oxidation. A study of the fatty acyl-CoA esters which accumulate during peroxisomal beta-oxidation of [U-14C]hexadecanoate" 
+  image: YSR.png
+  description: We love measuring things
+  authors:  Bartlett, K., R. Hovik, S. Eaton, N. J. Watmough, and H. Osmundsen
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153
+    url: http://dx.doi.org/
+    display:   Biochemical Journal, 270 175-80 (1990)
   highlight: 1
-  news2:
