@@ -1,3 +1,11 @@
+- title: "Intermediates of peroxisomal beta-oxidation. A study of the fatty acyl-CoA esters which accumulate during peroxisomal beta-oxidation of [U-14C]hexadecanoate" 
+  image: YSR.png
+  description: We love measuring things
+  authors:  Bartlett, K., R. Hovik, S. Eaton, N. J. Watmough, and H. Osmundsen
+  link:
+    url: http://dx.doi.org/10.1042/bj2700175
+    display:   Biochemical Journal, 270 175-80 (1990)
+  highlight: 1
 
 - title: "Bifidobacterium breve BBG-001 and intestinal barrier function in preterm babies: Exploratory Studies from the PiPS Trial" 
   image: placeholder.png
@@ -5,7 +13,7 @@
   authors:  Fleming, P., M. Wilks, S. Eaton, N. Panton, R. Hutchinson, A. Akyempon, P. Hardy, M. R. Millar, and K. Costeloe
   link:
     url: http://dx.doi.org/10.1038/s41390-020-01135-5
-    display:   PEDIATR RES, 89: 1818-24.(2021)
+    display:   PEDIATR RES, 89 1818-24.(2021)
   highlight: 1
 
 - title: "Beclin-1-mediated activation of autophagy improves proximal and distal urea cycle disorders" 
@@ -14,7 +22,7 @@
   authors:  Soria, L. R., S. Gurung, G. De Sabbata, D. P. Perocheau, A. De Angelis, G. Bruno, E. Polishchuk, D. Paris, P. Cuomo, A. Motta, M. Orford, Y. Khalil, S. Eaton, P. B. Mills, S. N. Waddington, C. Settembre, A. F. Muro, J. Baruteau, and N. Brunetti-Pierri
   link:
     url: http://dx.doi.org/10.15252/emmm.202013158
-    display:   EMBO Mol Med, 13: e13158.(2021)
+    display:   EMBO Mol Med, 13 e13158.(2021)
   highlight: 1
 
 - title: "Growth, body composition, and cardiovascular and nutritional risk of 5-10-year-old children consuming vegetarian, vegan or omnivore diets" 
@@ -31,7 +39,7 @@
   authors:  Alrashidi, H., S. Eaton, and S. Heales
   link:
     url: http://dx.doi.org/10.1016/j.neuint.2021.105009
-    display:   Neurochem Int, 145: 105009.(2021)
+    display:   Neurochem Int, 145 105009.(2021)
   highlight: 1
 
 - title: "Ageing Contributes to Phenotype Transition in a Mouse Model of Periodic Paralysis" 
@@ -48,7 +56,7 @@
   authors:  Rosser, E. C., C. J. M. Piper, D. E. Matei, P. A. Blair, A. F. Rendeiro, M. Orford, D. G. Alber, T. Krausgruber, D. Catalan, N. Klein, J. J. Manson, I. Drozdov, C. Bock, L. R. Wedderburn, S. Eaton, and C. Mauri
   link:
     url: http://dx.doi.org/10.1016/j.cmet.2020.03.003
-    display:   Cell Metab, 31: 837-51 e10.(2020)
+    display:   Cell Metab, 31 837-51 e10.(2020)
   highlight: 1
 
 - title: "Liposomal delivery of hydrophobic RAMBAs provides good bioavailability and significant enhancement of retinoic acid signalling in neuroblastoma tumour cells" 
@@ -57,7 +65,7 @@
   authors:  Bilip, M., S. Shah, M. Mathiyalakan, A. D. Tagalakis, S. L. Hart, R. Maeshima, S. Eaton, M. Orford, E. Irving, A. Di Florio, C. Simons, and A. W. Stoker
   link:
     url: http://dx.doi.org/10.1080/1061186X.2019.1710157
-    display:   J Drug Target, 28: 643-54.(2020)
+    display:   J Drug Target, 28 643-54.(2020)
   highlight: 1
 
 - title: "The Effect of Glutamine Supplementation on Microbial Invasion in Surgical Infants Requiring Parenteral Nutrition: Results of a Randomized Controlled Trial" 
@@ -66,7 +74,7 @@
   authors:  Bishay, M., V. Simchowitz, K. Harris, S. Macdonald, P. De Coppi, N. Klein, S. Eaton, A. Pierro, and Migs Trial Group
   link:
     url: http://dx.doi.org/10.1002/jpen.1700
-    display:   JPEN J Parenter Enteral Nutr, 44: 80-91.(2020)
+    display:   JPEN J Parenter Enteral Nutr, 44 80-91.(2020)
   highlight: 1
 
 - title: "Lipid Peroxidation and Antioxidant Consumption as Early Markers of Neurosurgery-Related Brain Injury in Children" 
@@ -75,7 +83,7 @@
   authors:  Piastra, M., E. Caresta, L. Massimi, E. Picconi, E. Luca, T. C. Morena, G. Conti, and S. Eaton
   link:
     url: http://dx.doi.org/10.1007/s12028-019-00870-w
-    display:   Neurocrit Care, 33: 124-31.(2020)
+    display:   Neurocrit Care, 33 124-31.(2020)
   highlight: 1
 
 - title: "Remote ischemic conditioning counteracts the intestinal damage of necrotizing enterocolitis by improving intestinal microcirculation" 
@@ -84,7 +92,7 @@
   authors:  Koike, Y., B. Li, N. Ganji, H. Zhu, H. Miyake, Y. Chen, C. Lee, M. Janssen Lok, C. Zozaya, E. Lau, D. Lee, S. Chusilp, Z. Zhang, M. Yamoto, R. Y. Wu, M. Inoue, K. Uchida, M. Kusunoki, P. Delgado-Olguin, L. Mertens, A. Daneman, S. Eaton, P. M. Sherman, and A. Pierro
   link:
     url: http://dx.doi.org/10.1038/s41467-020-18750-9
-    display:   Nat Commun, 11: 4950.(2020)
+    display:   Nat Commun, 11 4950.(2020)
   highlight: 1
 
 - title: "Activation of Wnt signaling by amniotic fluid stem cell-derived extracellular vesicles attenuates intestinal injury in experimental necrotizing enterocolitis" 
@@ -93,7 +101,7 @@
   authors:  Li, B., C. Lee, J. S. O'Connell, L. Antounians, N. Ganji, M. Alganabi, M. Cadete, F. Nascimben, Y. Koike, A. Hock, S. R. Botts, R. Y. Wu, H. Miyake, A. Minich, M. F. Maalouf, E. Zani-Ruttenstock, Y. Chen, K. C. Johnson-Henry, P. De Coppi, S. Eaton, P. Maattanen, P. Delgado Olguin, A. Zani, P. M. Sherman, and A. Pierro
   link:
     url: http://dx.doi.org/10.1038/s41419-020-02964-2
-    display:   Cell Death Dis, 11: 750.(2020)
+    display:   Cell Death Dis, 11 750.(2020)
   highlight: 1
 
 - title: "Engineering transplantable jejunal mucosal grafts using patient-derived organoids from children with intestinal failure" 
@@ -102,7 +110,7 @@
   authors:  Meran, L., I. Massie, S. Campinoti, A. E. Weston, R. Gaifulina, L. Tullie, P. Faull, M. Orford, A. Kucharska, A. Baulies, L. Novellasdemunt, N. Angelis, E. Hirst, J. Konig, A. M. Tedeschi, A. F. Pellegata, S. Eli, A. P. Snijders, L. Collinson, N. Thapar, G. M. H. Thomas, S. Eaton, P. Bonfanti, P. De Coppi, and V. S. W. Li
   link:
     url: http://dx.doi.org/10.1038/s41591-020-1024-z
-    display:   Nat Med, 26: 1593-601.(2020)
+    display:   Nat Med, 26 1593-601.(2020)
   highlight: 1
 
 - title: "The Microfluidic Environment Reveals a Hidden Role of Self-Organizing Extracellular Matrix in Hepatic Commitment and Organoid Formation of hiPSCs" 
@@ -111,7 +119,7 @@
   authors:  Michielin, F., G. G. Giobbe, C. Luni, Q. Hu, I. Maroni, M. R. Orford, A. Manfredi, L. Di Filippo, A. L. David, D. Cacchiarelli, P. De Coppi, S. Eaton, and N. Elvassore
   link:
     url: http://dx.doi.org/10.1016/j.celrep.2020.108453
-    display:   Cell Rep, 33: 108453.(2020)
+    display:   Cell Rep, 33 108453.(2020)
   highlight: 1
 
 - title: "The liposomal delivery of hydrophobic oxidovanadium complexes imparts highly effective cytotoxicity and differentiating capacity in neuroblastoma tumour cells" 
@@ -120,7 +128,7 @@
   authors:  Irving, E., A. D. Tagalakis, R. Maeshima, S. L. Hart, S. Eaton, A. Lehtonen, and A. W. Stoker
   link:
     url: http://dx.doi.org/10.1038/s41598-020-73539-6
-    display:   Sci Rep, 10: 16660.(2020)
+    display:   Sci Rep, 10 16660.(2020)
   highlight: 1
 
 - title: "A novel role for the extracellular matrix glycoprotein-Tenascin-X in gastric function" 
@@ -129,7 +137,7 @@
   authors:  Aktar, R., M. Peiris, A. Fikree, S. Eaton, S. Kritas, S. J. Kentish, E. J. A. Araujo, C. Bacarin, A. J. Page, N. C. Voermans, Q. Aziz, and L. A. Blackshaw
   link:
     url: http://dx.doi.org/10.1113/JP277195
-    display:   J Physiol, 597: 1503-15.(2019)
+    display:   J Physiol, 597 1503-15.(2019)
   highlight: 1
 
 - title: "Whole rat stomach decellularisation using a detergent-enzymatic protocol" 
@@ -138,7 +146,7 @@
   authors:  Zambaiti, E., F. Scottoni, E. Rizzi, S. Russo, K. Deguchi, S. Eaton, A. F. Pellegata, and P. De Coppi
   link:
     url: http://dx.doi.org/10.1007/s00383-018-4372-8
-    display:   Pediatr Surg Int, 35: 21-27.(2019)
+    display:   Pediatr Surg Int, 35 21-27.(2019)
   highlight: 1
 
 - title: "Metabolic rate of major organs and tissues in young adult South Asian women" 
@@ -147,7 +155,7 @@
   authors:  Shirley, M. K., O. J. Arthurs, K. K. Seunarine, T. J. Cole, S. Eaton, J. E. Williams, C. A. Clark, and J. C. K. Wells
   link:
     url: http://dx.doi.org/10.1038/s41430-018-0362-0
-    display:   Eur J Clin Nutr, 73: 1164-71.(2019)
+    display:   Eur J Clin Nutr, 73 1164-71.(2019)
   highlight: 1
 
 - title: "Differences between Measured Total Nitrogen Losses in Spent Peritoneal Dialysate Effluent and Estimated Nitrogen Losses" 
@@ -156,7 +164,7 @@
   authors:  Vongsanim, S., C. Salame, S. Eaton, G. Grimble, and A. Davenport
   link:
     url: http://dx.doi.org/10.1053/j.jrn.2018.08.010
-    display:   J Ren Nutr, 29: 243-47.(2019)
+    display:   J Ren Nutr, 29 243-47.(2019)
   highlight: 1
 
 - title: "Randomized controlled trial investigating the effects of a breastfeeding relaxation intervention on maternal psychological state, breast milk outcomes, and infant behavior and growth" 
@@ -165,7 +173,7 @@
   authors:  Mohd Shukri, N. H., J. Wells, S. Eaton, F. Mukhtar, A. Petelin, Z. Jenko-Praznikar, and M. Fewtrell
   link:
     url: http://dx.doi.org/10.1093/ajcn/nqz033
-    display:   Am J Clin Nutr, 110: 121-30.(2019)
+    display:   Am J Clin Nutr, 110 121-30.(2019)
   highlight: 1
 
 - title: "In Utero Gene Therapy (IUGT) Using GLOBE Lentiviral Vector Phenotypically Corrects the Heterozygous Humanised Mouse Model and Its Progress Can Be Monitored Using MRI Techniques" 
@@ -174,7 +182,7 @@
   authors:  Shangaris, P., S. P. Loukogeorgakis, S. Subramaniam, C. Flouri, L. H. Jackson, W. Wang, M. P. Blundell, S. Liu, S. Eaton, N. Bakhamis, D. L. Ramachandra, P. Maghsoudlou, L. Urbani, S. N. Waddington, A. Eddaoudi, J. Archer, M. N. Antoniou, D. J. Stuckey, M. Schmidt, A. J. Thrasher, T. M. Ryan, P. De Coppi, and A. L. David
   link:
     url: http://dx.doi.org/10.1038/s41598-019-48078-4
-    display:   Sci Rep, 9: 11592.(2019)
+    display:   Sci Rep, 9 11592.(2019)
   highlight: 1
 
 - title: "Impaired Wnt/beta-catenin pathway leads to dysfunction of intestinal regeneration during necrotizing enterocolitis" 
@@ -183,7 +191,7 @@
   authors:  Li, B., C. Lee, M. Cadete, H. Zhu, Y. Koike, A. Hock, R. Y. Wu, S. R. Botts, A. Minich, M. Alganabi, L. Chi, E. Zani-Ruttenstock, H. Miyake, Y. Chen, A. Mutanen, B. Ngan, K. C. Johnson-Henry, P. De Coppi, S. Eaton, P. Maattanen, P. Delgado-Olguin, P. M. Sherman, A. Zani, and A. Pierro
   link:
     url: http://dx.doi.org/10.1038/s41419-019-1987-1
-    display:   Cell Death Dis, 10: 743.(2019)
+    display:   Cell Death Dis, 10 743.(2019)
   highlight: 1
 
 - title: "Extracellular matrix hydrogel derived from decellularized tissues enables endoderm organoid culture" 
@@ -200,7 +208,7 @@
   authors:  Meran, Laween, Isobel Massie, Anne Weston, Riana Gaifulina, Peter Faull, Michael Orford, Anna Kucharska, Anna Baulies, Elizabeth Hirst, Julia Konig, Alfonso Maria Tedeschi, Alessandro Filippo Pellegata, Susanna Eli, Ambrosius P. Snijders, Lucy Collinson, Nikhil Thapar, Geriant Thomas, Simon Eaton, Paola Bonfanti, Paolo De Coppi, and Vivian S. W. Li
   link:
     url: http://dx.doi.org/10.1101/854083
-    display:   bioRxiv: 854083.(2019)
+    display:   bioRxiv 854083.(2019)
   highlight: 1
 
 - title: "Control of mitochondrial superoxide production by reverse electron transport at complex I" 
@@ -209,7 +217,7 @@
   authors:  Robb, E. L., A. R. Hall, T. A. Prime, S. Eaton, M. Szibor, C. Viscomi, A. M. James, and M. P. Murphy
   link:
     url: http://dx.doi.org/10.1074/jbc.RA118.003647
-    display:   J Biol Chem, 293: 9869-79.(2018)
+    display:   J Biol Chem, 293 9869-79.(2018)
   highlight: 1
 
 - title: "Decellularised skeletal muscles allow functional muscle regeneration by promoting host cell migration" 
@@ -218,7 +226,7 @@
   authors:  Urciuolo, A., L. Urbani, S. Perin, P. Maghsoudlou, F. Scottoni, A. Gjinovci, H. Collins-Hooper, S. Loukogeorgakis, A. Tyraskis, S. Torelli, E. Germinario, M. E. A. Fallas, C. Julia-Vilella, S. Eaton, B. Blaauw, K. Patel, and P. De Coppi
   link:
     url: http://dx.doi.org/10.1038/s41598-018-26371-y
-    display:   Sci Rep, 8: 8398.(2018)
+    display:   Sci Rep, 8 8398.(2018)
   highlight: 1
 
 - title: "Metabolic profile of children with extrahepatic portal vein obstruction undergoing meso-Rex bypass" 
@@ -227,7 +235,7 @@
   authors:  Lautz, T. B., S. Eaton, L. Keys, J. Ito, M. Polo, J. C. K. Wells, A. Pierro, and R. A. Superina
   link:
     url: http://dx.doi.org/10.1016/j.jss.2017.10.010
-    display:   J SURG RES, 223: 109-14.(2018)
+    display:   J SURG RES, 223 109-14.(2018)
   highlight: 1
 
 - title: "Multi-stage bioengineering of a layered oesophagus with in vitro expanded muscle and epithelial adult progenitors" 
@@ -236,7 +244,7 @@
   authors:  Urbani, L., C. Camilli, D. E. Phylactopoulos, C. Crowley, D. Natarajan, F. Scottoni, P. Maghsoudlou, C. J. McCann, A. F. Pellegata, A. Urciuolo, K. Deguchi, S. Khalaf, S. F. Aruta, M. C. Signorelli, D. Kiely, E. Hannon, M. Trevisan, R. R. Wong, M. O. Baradez, D. Moulding, A. Virasami, A. Gjinovci, S. Loukogeorgakis, S. Mantero, N. Thapar, N. Sebire, S. Eaton, M. Lowdell, G. Cossu, P. Bonfanti, and P. De Coppi
   link:
     url: http://dx.doi.org/10.1038/s41467-018-06385-w
-    display:   Nat Commun, 9: 4286.(2018)
+    display:   Nat Commun, 9 4286.(2018)
   highlight: 1
 
 - title: "Protein Losses and Urea Nitrogen Underestimate Total Nitrogen Losses in Peritoneal Dialysis and Hemodialysis Patients" 
@@ -245,7 +253,7 @@
   authors:  Salame, C., S. Eaton, G. Grimble, and A. Davenport
   link:
     url: http://dx.doi.org/10.1053/j.jrn.2018.01.016
-    display:   J Ren Nutr, 28: 317-23.(2018)
+    display:   J Ren Nutr, 28 317-23.(2018)
   highlight: 1
 
 - title: "Neuronal decanoic acid oxidation is markedly lower than that of octanoic acid: A mechanistic insight into the medium-chain triglyceride ketogenic diet" 
@@ -254,7 +262,7 @@
   authors:  Khabbush, A., M. Orford, Y. C. Tsai, T. Rutherford, M. O'Donnell, S. Eaton, and S. J. R. Heales
   link:
     url: http://dx.doi.org/10.1111/epi.13833
-    display:   Epilepsia, 58: 1423-29.(2017)
+    display:   Epilepsia, 58 1423-29.(2017)
   highlight: 1
 
 - title: "Long-term cryopreservation of decellularised oesophagi for tissue engineering clinical application" 
@@ -263,7 +271,7 @@
   authors:  Urbani, L., P. Maghsoudlou, A. Milan, M. Menikou, C. K. Hagen, G. Totonelli, C. Camilli, S. Eaton, A. Burns, A. Olivo, and P. De Coppi
   link:
     url: http://dx.doi.org/10.1371/journal.pone.0179341
-    display:   PLOS ONE, 12: e0179341.(2017)
+    display:   PLOS ONE, 12 e0179341.(2017)
   highlight: 1
 
 - title: "Inhibition of neuronal mitochondrial complex I or lysosomal glucocerebrosidase is associated with increased dopamine and serotonin turnover" 
@@ -272,7 +280,7 @@
   authors:  de la Fuente, C., D. G. Burke, S. Eaton, and S. J. R. Heales
   link:
     url: http://dx.doi.org/10.1016/j.neuint.2017.02.013
-    display:   Neurochem Int, 109: 94-100.(2017)
+    display:   Neurochem Int, 109 94-100.(2017)
   highlight: 1
 
 - title: "Appendectomy versus non-operative treatment for acute uncomplicated appendicitis in children: study protocol for a multicentre, open-label, non-inferiority, randomised controlled trial" 
@@ -290,7 +298,7 @@
   authors:  Hawkins, K. E., D. Moschidou, D. Faccenda, W. Wruck, A. Martin-Trujillo, K. L. Hau, A. M. Ranzoni, V. Sanchez-Freire, F. Tommasini, S. Eaton, P. De Coppi, D. Monk, M. Campanella, A. J. Thrasher, J. Adjaye, and P. V. Guillot
   link:
     url: http://dx.doi.org/10.1016/j.ymthe.2016.11.014
-    display:   Mol Ther, 25: 427-42.(2017)
+    display:   Mol Ther, 25 427-42.(2017)
   highlight: 1
 
 - title: "Mutations in SLC39A14 disrupt manganese homeostasis and cause childhood-onset parkinsonism-dystonia" 
@@ -299,7 +307,7 @@
   authors:  Tuschl, K., E. Meyer, L. E. Valdivia, N. Zhao, C. Dadswell, A. Abdul-Sada, C. Y. Hung, M. A. Simpson, W. K. Chong, T. S. Jacques, R. L. Woltjer, S. Eaton, A. Gregory, L. Sanford, E. Kara, H. Houlden, S. M. Cuno, H. Prokisch, L. Valletta, V. Tiranti, R. Younis, E. R. Maher, J. Spencer, A. Straatman-Iwanowska, P. Gissen, L. A. Selim, G. Pintos-Morell, W. Coroleu-Lletget, S. S. Mohammad, S. Yoganathan, R. C. Dale, M. Thomas, J. Rihel, O. A. Bodamer, C. A. Enns, S. J. Hayflick, P. T. Clayton, P. B. Mills, M. A. Kurian, and S. W. Wilson
   link:
     url: http://dx.doi.org/10.1038/ncomms11601
-    display:   Nat Commun, 7: 11601.(2016)
+    display:   Nat Commun, 7 11601.(2016)
   highlight: 1
 
 - title: "Optimization of Liver Decellularization Maintains Extracellular Matrix Micro-Architecture and Composition Predisposing to Effective Cell Seeding" 
@@ -308,7 +316,7 @@
   authors:  Maghsoudlou, P., F. Georgiades, H. Smith, A. Milan, P. Shangaris, L. Urbani, S. P. Loukogeorgakis, B. Lombardi, G. Mazza, C. Hagen, N. J. Sebire, M. Turmaine, S. Eaton, A. Olivo, J. Godovac-Zimmermann, M. Pinzani, P. Gissen, and P. De Coppi
   link:
     url: http://dx.doi.org/10.1371/journal.pone.0155324
-    display:   PLOS ONE, 11: e0155324.(2016)
+    display:   PLOS ONE, 11 e0155324.(2016)
   highlight: 1
 
 - title: "Intestinal epithelial cell injury is rescued by hydrogen sulfide" 
@@ -317,7 +325,7 @@
   authors:  Li, B., A. Zani, Z. Martin, C. Lee, E. Zani-Ruttenstock, S. Eaton, and A. Pierro
   link:
     url: http://dx.doi.org/10.1016/j.jpedsurg.2016.02.019
-    display:   J Pediatr Surg, 51: 775-8.(2016)
+    display:   J Pediatr Surg, 51 775-8.(2016)
   highlight: 1
 
 - title: "Bioimpedance index for measurement of total body water in severely malnourished children: Assessing the effect of nutritional oedema" 
@@ -326,7 +334,7 @@
   authors:  Girma, T., P. Kaestel, N. Workeneh, C. Molgaard, S. Eaton, G. S. Andersen, K. F. Michaelsen, H. Friis, and J. C. Wells
   link:
     url: http://dx.doi.org/10.1016/j.clnu.2015.05.002
-    display:   Clin Nutr, 35: 713-7.(2016)
+    display:   Clin Nutr, 35 713-7.(2016)
   highlight: 1
 
 - title: "Body composition in young female eating-disorder patients with severe weight loss and controls: evidence from the four-component model and evaluation of DXA" 
@@ -335,7 +343,7 @@
   authors:  Wells, J. C., D. Haroun, J. E. Williams, D. Nicholls, T. Darch, S. Eaton, and M. S. Fewtrell
   link:
     url: http://dx.doi.org/10.1038/ejcn.2015.111
-    display:   Eur J Clin Nutr, 69: 1330-5.(2015)
+    display:   Eur J Clin Nutr, 69 1330-5.(2015)
   highlight: 1
 
 - title: "Correlation of low CD73 expression on synovial lymphocytes with reduced adenosine generation and higher disease severity in juvenile idiopathic arthritis" 
@@ -344,7 +352,7 @@
   authors:  Botta Gordon-Smith, S., S. Ursu, S. Eaton, H. Moncrieffe, and L. R. Wedderburn
   link:
     url: http://dx.doi.org/10.1002/art.38959
-    display:   Arthritis Rheumatol, 67: 545-54.(2015)
+    display:   Arthritis Rheumatol, 67 545-54.(2015)
   highlight: 1
 
 - title: "Ischaemic accumulation of succinate controls reperfusion injury through mitochondrial ROS" 
@@ -353,7 +361,7 @@
   authors:  Chouchani, E. T., V. R. Pell, E. Gaude, D. Aksentijevic, S. Y. Sundier, E. L. Robb, A. Logan, S. M. Nadtochiy, E. N. J. Ord, A. C. Smith, F. Eyassu, R. Shirley, C. H. Hu, A. J. Dare, A. M. James, S. Rogatti, R. C. Hartley, S. Eaton, A. S. H. Costa, P. S. Brookes, S. M. Davidson, M. R. Duchen, K. Saeb-Parsy, M. J. Shattock, A. J. Robinson, L. M. Work, C. Frezza, T. Krieg, and M. P. Murphy
   link:
     url: http://dx.doi.org/10.1038/nature13909
-    display:   NATURE, 515: 431-35.(2014)
+    display:   NATURE, 515 431-35.(2014)
   highlight: 1
 
 - title: "Isolation of esophageal stem cells with potential for therapy" 
@@ -362,7 +370,7 @@
   authors:  Maghsoudlou, P., D. Ditchfield, D. H. Klepacka, P. Shangaris, L. Urbani, S. P. Loukogeorgakis, S. Eaton, and P. De Coppi
   link:
     url: http://dx.doi.org/10.1007/s00383-014-3615-6
-    display:   Pediatr Surg Int, 30: 1249-56.(2014)
+    display:   Pediatr Surg Int, 30 1249-56.(2014)
   highlight: 1
 
 - title: "The ketogenic diet component decanoic acid increases mitochondrial citrate synthase and complex I activity in neuronal cells" 
@@ -371,7 +379,7 @@
   authors:  Hughes, S. D., M. Kanabus, G. Anderson, I. P. Hargreaves, T. Rutherford, M. O'Donnell, J. H. Cross, S. Rahman, S. Eaton, and S. J. Heales
   link:
     url: http://dx.doi.org/10.1111/jnc.12646
-    display:   J Neurochem, 129: 426-33.(2014)
+    display:   J Neurochem, 129 426-33.(2014)
   highlight: 1
 
 - title: "In amnio MRI of mouse embryos" 
@@ -380,7 +388,7 @@
   authors:  Roberts, T. A., F. C. Norris, H. Carnaghan, D. Savery, J. A. Wells, B. Siow, P. J. Scambler, A. Pierro, P. De Coppi, S. Eaton, and M. F. Lythgoe
   link:
     url: http://dx.doi.org/10.1371/journal.pone.0109143
-    display:   PLOS ONE, 9: e109143.(2014)
+    display:   PLOS ONE, 9 e109143.(2014)
   highlight: 1
 
 - title: "Amniotic fluid stem cells improve survival and enhance repair of damaged intestine in necrotising enterocolitis via a COX-2 dependent mechanism" 
@@ -389,7 +397,7 @@
   authors:  Zani, A., M. Cananzi, F. Fascetti-Leon, G. Lauriti, V. V. Smith, S. Bollini, M. Ghionzoli, A. D'Arrigo, M. Pozzobon, M. Piccoli, A. Hicks, J. Wells, B. Siow, N. J. Sebire, C. Bishop, A. Leon, A. Atala, M. F. Lythgoe, A. Pierro, S. Eaton, and P. De Coppi
   link:
     url: http://dx.doi.org/10.1136/gutjnl-2012-303735
-    display:   Gut, 63: 300-9.(2014)
+    display:   Gut, 63 300-9.(2014)
   highlight: 1
 
 - title: "Amniotic fluid stem cells prevent development of ascites in a neonatal rat model of necrotizing enterocolitis" 
@@ -398,7 +406,7 @@
   authors:  Zani, A., M. Cananzi, G. Lauriti, F. Fascetti-Leon, J. Wells, B. Siow, M. F. Lythgoe, A. Pierro, S. Eaton, and P. De Coppi
   link:
     url: http://dx.doi.org/10.1055/s-0033-1350059
-    display:   Eur J Pediatr Surg, 24: 57-60.(2014)
+    display:   Eur J Pediatr Surg, 24 57-60.(2014)
   highlight: 1
 
 - title: "Levels of 5-methyltetrahydrofolate and ascorbic acid in cerebrospinal fluid are correlated: implications for the accelerated degradation of folate by reactive oxygen species" 
@@ -407,7 +415,7 @@
   authors:  Aylett, S. B., V. Neergheen, I. P. Hargreaves, S. Eaton, J. M. Land, S. Rahman, and S. J. Heales
   link:
     url: http://dx.doi.org/10.1016/j.neuint.2013.10.002
-    display:   Neurochem Int, 63: 750-5.(2013)
+    display:   Neurochem Int, 63 750-5.(2013)
   highlight: 1
 
 - title: "Single-cell PCR analysis of murine embryonic stem cells cultured on different substrates highlights heterogeneous expression of stem cell markers" 
@@ -416,7 +424,7 @@
   authors:  Franzin, C., M. Piccoli, E. Serena, E. Bertin, L. Urbani, C. Luni, V. Pasqualetto, S. Eaton, N. Elvassore, P. De Coppi, and M. Pozzobon
   link:
     url: http://dx.doi.org/10.1111/boc.201300034
-    display:   Biol Cell, 105: 549-60.(2013)
+    display:   Biol Cell, 105 549-60.(2013)
   highlight: 1
 
 - title: "Human amniotic fluid stem cell differentiation along smooth muscle lineage" 
@@ -425,7 +433,7 @@
   authors:  Ghionzoli, M., A. Repele, L. Sartiani, G. Costanzi, A. Parenti, V. Spinelli, A. L. David, M. Garriboli, G. Totonelli, J. Tian, S. T. Andreadis, E. Cerbai, A. Mugelli, A. Messineo, A. Pierro, S. Eaton, and P. De Coppi
   link:
     url: http://dx.doi.org/10.1096/fj.12-218578
-    display:   FASEB J, 27: 4853-65.(2013)
+    display:   FASEB J, 27 4853-65.(2013)
   highlight: 1
 
 - title: "Coenzyme Q10 quantification in muscle, fibroblasts and cerebrospinal fluid by liquid chromatography/tandem mass spectrometry using a novel deuterated internal standard" 
@@ -434,7 +442,7 @@
   authors:  Duberley, K. E., I. P. Hargreaves, K. A. Chaiwatanasirikul, S. J. Heales, J. M. Land, S. Rahman, K. Mills, and S. Eaton
   link:
     url: http://dx.doi.org/10.1002/rcm.6529
-    display:   RAPID COMMUN MASS SPECTROM, 27: 924-30.(2013)
+    display:   RAPID COMMUN MASS SPECTROM, 27 924-30.(2013)
   highlight: 1
 
 - title: "Cell metabolism sets the differences between subpopulations of satellite cells (SCs)" 
@@ -443,7 +451,7 @@
   authors:  Repele, A., R. Lupi, S. Eaton, L. Urbani, P. De Coppi, and M. Campanella
   link:
     url: http://dx.doi.org/10.1186/1471-2121-14-24
-    display:   BMC Cell Biol, 14: 24.(2013)
+    display:   BMC Cell Biol, 14 24.(2013)
   highlight: 1
 
 - title: "Preservation of micro-architecture and angiogenic potential in a pulmonary acellular matrix obtained using intermittent intra-tracheal flow of detergent enzymatic treatment" 
@@ -452,7 +460,7 @@
   authors:  Maghsoudlou, P., F. Georgiades, A. Tyraskis, G. Totonelli, S. P. Loukogeorgakis, G. Orlando, P. Shangaris, P. Lange, J. M. Delalande, A. J. Burns, A. Cenedese, N. J. Sebire, M. Turmaine, B. N. Guest, J. F. Alcorn, A. Atala, M. A. Birchall, M. J. Elliott, S. Eaton, A. Pierro, T. W. Gilbert, and P. De Coppi
   link:
     url: http://dx.doi.org/10.1016/j.biomaterials.2013.05.015
-    display:   Biomaterials, 34: 6638-48.(2013)
+    display:   Biomaterials, 34 6638-48.(2013)
   highlight: 1
 
 - title: "Energy expenditure compared to physical activity measured by accelerometry and self-report in adolescents: a validation study" 
@@ -461,7 +469,7 @@
   authors:  Hallal, P. C., F. F. Reichert, V. L. Clark, K. L. Cordeira, A. M. Menezes, S. Eaton, U. Ekelund, and J. C. Wells
   link:
     url: http://dx.doi.org/10.1371/journal.pone.0077036
-    display:   PLOS ONE, 8: e77036.(2013)
+    display:   PLOS ONE, 8 e77036.(2013)
   highlight: 1
 
 - title: "Validation of energy requirement references for exclusively breast-fed infants" 
@@ -470,7 +478,7 @@
   authors:  Nielsen, S. B., J. C. Wells, M. S. Fewtrell, S. Eaton, J. Grinham, and J. J. Reilly
   link:
     url: http://dx.doi.org/10.1017/S000711451200428X
-    display:   Br J Nutr, 109: 2036-43.(2013)
+    display:   Br J Nutr, 109 2036-43.(2013)
   highlight: 1
 
 - title: "Detergent enzymatic treatment for the development of a natural acellular matrix for oesophageal regeneration" 
@@ -479,7 +487,7 @@
   authors:  Totonelli, G., P. Maghsoudlou, F. Georgiades, M. Garriboli, K. Koshy, M. Turmaine, M. Ashworth, N. J. Sebire, A. Pierro, S. Eaton, and P. De Coppi
   link:
     url: http://dx.doi.org/10.1007/s00383-012-3194-3
-    display:   Pediatr Surg Int, 29: 87-95.(2013)
+    display:   Pediatr Surg Int, 29 87-95.(2013)
   highlight: 1
 
 - title: "Randomized controlled trial of 4 compared with 6 mo of exclusive breastfeeding in Iceland: differences in breast-milk intake by stable-isotope probe" 
@@ -488,7 +496,7 @@
   authors:  Wells, J. C., O. H. Jonsdottir, P. L. Hibberd, M. S. Fewtrell, I. Thorsdottir, S. Eaton, A. Lucas, G. Gunnlaugsson, and R. E. Kleinman
   link:
     url: http://dx.doi.org/10.3945/ajcn.111.030403
-    display:   Am J Clin Nutr, 96: 73-9.(2012)
+    display:   Am J Clin Nutr, 96 73-9.(2012)
   highlight: 1
 
 - title: "Leucine-sensitive hyperinsulinaemic hypoglycaemia in patients with loss of function mutations in 3-Hydroxyacyl-CoA Dehydrogenase" 
@@ -497,7 +505,7 @@
   authors:  Heslegrave, A. J., R. R. Kapoor, S. Eaton, B. Chadefaux, T. Akcay, E. Simsek, S. E. Flanagan, S. Ellard, and K. Hussain
   link:
     url: http://dx.doi.org/10.1186/1750-1172-7-25
-    display:   Orphanet J Rare Dis, 7: 25.(2012)
+    display:   Orphanet J Rare Dis, 7 25.(2012)
   highlight: 1
 
 - title: "Severe resistance to weight gain, lack of stored triglycerides in adipose tissue, hypoglycaemia, and increased energy expenditure: a novel disorder of energy homeostasis" 
@@ -506,7 +514,7 @@
   authors:  Padidela, R., K. Bennett, A. Nessa, J. Wells, R. Aufieri, C. James, V. V. Smith, C. Brain, S. Eaton, and K. Hussain
   link:
     url: http://dx.doi.org/10.1159/000337248
-    display:   Horm Res Paediatr, 77: 261-8.(2012)
+    display:   Horm Res Paediatr, 77 261-8.(2012)
   highlight: 1
 
 - title: "The development of a peptide SRM-based tandem mass spectrometry assay for prenatal screening of Down syndrome" 
@@ -515,7 +523,7 @@
   authors:  Heywood, W., D. Wang, T. E. Madgett, N. D. Avent, S. Eaton, L. S. Chitty, and K. Mills
   link:
     url: http://dx.doi.org/10.1016/j.jprot.2012.03.037
-    display:   J Proteomics, 75: 3248-57.(2012)
+    display:   J Proteomics, 75 3248-57.(2012)
   highlight: 1
 
 - title: "A rat decellularized small bowel scaffold that preserves villus-crypt architecture for intestinal regeneration" 
@@ -524,7 +532,7 @@
   authors:  Totonelli, G., P. Maghsoudlou, M. Garriboli, J. Riegler, G. Orlando, A. J. Burns, N. J. Sebire, V. V. Smith, J. M. Fishman, M. Ghionzoli, M. Turmaine, M. A. Birchall, A. Atala, S. Soker, M. F. Lythgoe, A. Seifalian, A. Pierro, S. Eaton, and P. De Coppi
   link:
     url: http://dx.doi.org/10.1016/j.biomaterials.2012.01.012
-    display:   Biomaterials, 33: 3401-10.(2012)
+    display:   Biomaterials, 33 3401-10.(2012)
   highlight: 1
 
 - title: "Microglial neurotransmitter receptors trigger superoxide production in microglia; consequences for microglial-neuronal interactions" 
@@ -533,7 +541,7 @@
   authors:  Mead, E. L., A. Mosley, S. Eaton, L. Dobson, S. J. Heales, and J. M. Pocock
   link:
     url: http://dx.doi.org/10.1111/j.1471-4159.2012.07659.x
-    display:   J Neurochem, 121: 287-301.(2012)
+    display:   J Neurochem, 121 287-301.(2012)
   highlight: 1
 
 - title: "Adequacy of milk intake during exclusive breastfeeding: a longitudinal study" 
@@ -542,7 +550,7 @@
   authors:  Nielsen, S. B., J. J. Reilly, M. S. Fewtrell, S. Eaton, J. Grinham, and J. C. Wells
   link:
     url: http://dx.doi.org/10.1542/peds.2011-0914
-    display:   Pediatrics, 128: e907-14.(2011)
+    display:   Pediatrics, 128 e907-14.(2011)
   highlight: 1
 
 - title: "Evaluation of lean tissue density for use in air displacement plethysmography in obese children and adolescents" 
@@ -551,7 +559,7 @@
   authors:  Wells, J. C., D. Haroun, J. E. Williams, T. Darch, S. Eaton, R. Viner, and M. S. Fewtrell
   link:
     url: http://dx.doi.org/10.1038/ejcn.2011.76
-    display:   Eur J Clin Nutr, 65: 1094-101.(2011)
+    display:   Eur J Clin Nutr, 65 1094-101.(2011)
   highlight: 1
 
 - title: "New targets of urocortin-mediated cardioprotection" 
@@ -560,7 +568,7 @@
   authors:  Barry, S. P., K. M. Lawrence, J. McCormick, S. M. Soond, M. Hubank, S. Eaton, A. Sivarajah, T. M. Scarabelli, R. A. Knight, C. Thiemermann, D. S. Latchman, P. A. Townsend, and A. Stephanou
   link:
     url: http://dx.doi.org/10.1677/JME-09-0148
-    display:   J Mol Endocrinol, 45: 69-85.(2010)
+    display:   J Mol Endocrinol, 45 69-85.(2010)
   highlight: 1
 
 - title: "High expression of the ectonucleotidase CD39 on T cells from the inflamed site identifies two distinct populations, one regulatory and one memory T cell population" 
@@ -569,7 +577,7 @@
   authors:  Moncrieffe, H., K. Nistala, Y. Kamhieh, J. Evans, A. Eddaoudi, S. Eaton, and L. R. Wedderburn
   link:
     url: http://dx.doi.org/10.4049/jimmunol.0803474
-    display:   J Immunol, 185: 134-43.(2010)
+    display:   J Immunol, 185 134-43.(2010)
   highlight: 1
 
 - title: "Urinary intestinal fatty acid-binding protein concentration predicts extent of disease in necrotizing enterocolitis" 
@@ -578,7 +586,7 @@
   authors:  Evennett, N. J., N. J. Hall, A. Pierro, and S. Eaton
   link:
     url: http://dx.doi.org/10.1016/j.jpedsurg.2009.09.024
-    display:   J Pediatr Surg, 45: 735-40.(2010)
+    display:   J Pediatr Surg, 45 735-40.(2010)
   highlight: 1
 
 - title: "Validation of bioelectrical impedance analysis in adolescents across different ethnic groups" 
@@ -587,7 +595,7 @@
   authors:  Haroun, D., S. J. Taylor, R. M. Viner, R. S. Hayward, T. S. Darch, S. Eaton, T. J. Cole, and J. C. Wells
   link:
     url: http://dx.doi.org/10.1038/oby.2009.344
-    display:   Obesity (Silver Spring), 18: 1252-9.(2010)
+    display:   Obesity (Silver Spring), 18 1252-9.(2010)
   highlight: 1
 
 - title: "Evaluation of DXA against the four-component model of body composition in obese children and adolescents aged 5-21 years" 
@@ -596,7 +604,7 @@
   authors:  Wells, J. C., D. Haroun, J. E. Williams, C. Wilson, T. Darch, R. M. Viner, S. Eaton, and M. S. Fewtrell
   link:
     url: http://dx.doi.org/10.1038/ijo.2009.249
-    display:   Int J Obes (Lond), 34: 649-55.(2010)
+    display:   Int J Obes (Lond), 34 649-55.(2010)
   highlight: 1
 
 - title: "Does intestinal permeability lead to organ failure in experimental necrotizing enterocolitis?" 
@@ -605,7 +613,7 @@
   authors:  Zani, A., M. Ghionzoli, G. Lauriti, M. Cananzi, V. V. Smith, A. Pierro, P. De Coppi, and S. Eaton
   link:
     url: http://dx.doi.org/10.1007/s00383-009-2507-7
-    display:   Pediatr Surg Int, 26: 85-9.(2010)
+    display:   Pediatr Surg Int, 26 85-9.(2010)
   highlight: 1
 
 - title: "Amniotic fluid stem cell migration after intraperitoneal injection in pup rats: implication for therapy" 
@@ -614,7 +622,7 @@
   authors:  Ghionzoli, M., M. Cananzi, A. Zani, C. A. Rossi, F. F. Leon, A. Pierro, S. Eaton, and P. De Coppi
   link:
     url: http://dx.doi.org/10.1007/s00383-009-2504-x
-    display:   Pediatr Surg Int, 26: 79-84.(2010)
+    display:   Pediatr Surg Int, 26 79-84.(2010)
   highlight: 1
 
 - title: "Validation of BIA in obese children and adolescents and re-evaluation in a longitudinal study" 
@@ -623,7 +631,7 @@
   authors:  Haroun, D., H. Croker, R. M. Viner, J. E. Williams, T. S. Darch, M. S. Fewtrell, S. Eaton, and J. C. Wells
   link:
     url: http://dx.doi.org/10.1038/oby.2009.98
-    display:   Obesity (Silver Spring), 17: 2245-50.(2009)
+    display:   Obesity (Silver Spring), 17 2245-50.(2009)
   highlight: 1
 
 - title: "Glutamine decreases inflammation in infant rat endotoxemia" 
@@ -632,7 +640,7 @@
   authors:  Garrett-Cox, R. G., G. Stefanutti, C. Booth, N. J. Klein, A. Pierro, and S. Eaton
   link:
     url: http://dx.doi.org/10.1016/j.jpedsurg.2008.09.007
-    display:   J Pediatr Surg, 44: 523-9.(2009)
+    display:   J Pediatr Surg, 44 523-9.(2009)
   highlight: 1
 
 - title: "Glutathione synthesis in intestinal ischaemia-reperfusion injury: effects of moderate hypothermia" 
@@ -641,7 +649,7 @@
   authors:  Kimura, Y., A. Pierro, and S. Eaton
   link:
     url: http://dx.doi.org/10.1016/j.jpedsurg.2008.10.091
-    display:   J Pediatr Surg, 44: 353-7.(2009)
+    display:   J Pediatr Surg, 44 353-7.(2009)
   highlight: 1
 
 - title: "3-Hydroxyacyl-coenzyme A dehydrogenase deficiency and hyperinsulinemic hypoglycemia: characterization of a novel mutation and severe dietary protein sensitivity" 
@@ -650,7 +658,7 @@
   authors:  Kapoor, R. R., C. James, S. E. Flanagan, S. Ellard, S. Eaton, and K. Hussain
   link:
     url: http://dx.doi.org/10.1210/jc.2009-0423
-    display:   J Clin Endocrinol Metab, 94: 2221-5.(2009)
+    display:   J Clin Endocrinol Metab, 94 2221-5.(2009)
   highlight: 1
 
 - title: "Gastric emptying is accelerated following laparoscopic Nissen fundoplication" 
@@ -659,7 +667,7 @@
   authors:  Pacilli, M., A. Pierro, K. J. Lindley, J. I. Curry, and S. Eaton
   link:
     url: http://dx.doi.org/10.1055/s-2008-1038919
-    display:   Eur J Pediatr Surg, 18: 395-7.(2008)
+    display:   Eur J Pediatr Surg, 18 395-7.(2008)
   highlight: 1
 
 - title: "Assessment of a neonatal rat model of necrotizing enterocolitis" 
@@ -668,7 +676,7 @@
   authors:  Zani, A., L. Cordischi, M. Cananzi, P. De Coppi, V. V. Smith, S. Eaton, and A. Pierro
   link:
     url: http://dx.doi.org/10.1055/s-2008-1038951
-    display:   Eur J Pediatr Surg, 18: 423-6.(2008)
+    display:   Eur J Pediatr Surg, 18 423-6.(2008)
   highlight: 1
 
 - title: "Simplified method for microlitre deuterium measurements in water and urine by gas chromatography-high-temperature conversion-isotope ratio mass spectrometry" 
@@ -677,7 +685,7 @@
   authors:  Gucciardi, A., P. E. Cogo, U. Traldi, S. Eaton, T. Darch, M. Simonato, C. Ori, and V. P. Carnielli
   link:
     url: http://dx.doi.org/10.1002/rcm.3593
-    display:   RAPID COMMUN MASS SPECTROM, 22: 2097-103.(2008)
+    display:   RAPID COMMUN MASS SPECTROM, 22 2097-103.(2008)
   highlight: 1
 
 - title: "Moderate hypothermia as a rescue therapy against intestinal ischemia and reperfusion injury in the rat" 
@@ -686,7 +694,7 @@
   authors:  Stefanutti, G., A. Pierro, E. J. Parkinson, V. V. Smith, and S. Eaton
   link:
     url: http://dx.doi.org/10.1097/CCM.0b013e3181709e9f
-    display:   Crit Care Med, 36: 1564-72.(2008)
+    display:   Crit Care Med, 36 1564-72.(2008)
   highlight: 1
 
 - title: "Captopril reduces the severity of bowel damage in a neonatal rat model of necrotizing enterocolitis" 
@@ -695,7 +703,7 @@
   authors:  Zani, A., S. Eaton, F. F. Leon, A. Malerba, N. J. Hall, P. De Coppi, V. V. Smith, and A. Pierro
   link:
     url: http://dx.doi.org/10.1016/j.jpedsurg.2007.10.022
-    display:   J Pediatr Surg, 43: 308-14.(2008)
+    display:   J Pediatr Surg, 43 308-14.(2008)
   highlight: 1
 
 - title: "Cells for bioartificial liver devices: The human hepatoma-derived cell line C3A produces urea but does not detoxify ammonia" 
@@ -703,7 +711,7 @@
   description: We love measuring things
   authors:  Mavri-Damelin, D., L. H. Damelin, S. Eaton, M. Rees, C. Selden, and H. J. F. Hodgson
   link:
-    url:     display:   Biotechnology and Bioengineering, 99: 644-51.(2008)
+    url:     display:   Biotechnology and Bioengineering, 99 644-51.(2008)
   highlight: 1
 
 - title: "Peroxynitrite decomposition catalyst FeTMPyP provides partial protection against intestinal ischemia and reperfusion injury in infant rats" 
@@ -712,7 +720,7 @@
   authors:  Stefanutti, G., A. Pierro, V. V. Smith, N. J. Klein, and S. Eaton
   link:
     url: http://dx.doi.org/10.1203/PDR.0b013e31806790c0
-    display:   PEDIATR RES, 62: 43-8.(2007)
+    display:   PEDIATR RES, 62 43-8.(2007)
   highlight: 1
 
 - title: "A novel starch for the treatment of glycogen storage diseases" 
@@ -721,7 +729,7 @@
   authors:  Bhattacharya, K., R. C. Orton, X. Qi, H. Mundy, D. W. Morley, M. P. Champion, S. Eaton, R. F. Tester, and P. J. Lee
   link:
     url: http://dx.doi.org/10.1007/s10545-007-0479-0
-    display:   J Inherit Metab Dis, 30: 350-7.(2007)
+    display:   J Inherit Metab Dis, 30 350-7.(2007)
   highlight: 1
 
 - title: "Oxidation of intravenous lipid in infants and children with systemic inflammatory response syndrome and sepsis" 
@@ -730,7 +738,7 @@
   authors:  Caresta, E., A. Pierro, M. Chowdhury, M. J. Peters, M. Piastra, and S. Eaton
   link:
     url: http://dx.doi.org/10.1203/01.pdr.0000252441.91671.e5
-    display:   PEDIATR RES, 61: 228-32.(2007)
+    display:   PEDIATR RES, 61 228-32.(2007)
   highlight: 1
 
 - title: "Severe hypoinsulinaemic hypoglycaemia in a premature infant associated with poor weight gain and reduced adipose tissue" 
@@ -739,7 +747,7 @@
   authors:  Coelho, R., J. Wells, J. Symth, R. Semple, S. O'Rahilly, S. Eaton, and K. Hussain
   link:
     url: http://dx.doi.org/10.1159/000100974
-    display:   Horm Res, 68: 91-8.(2007)
+    display:   Horm Res, 68 91-8.(2007)
   highlight: 1
 
 - title: "Ornithine transcarbamylase and arginase I deficiency are responsible for diminished urea cycle function in the human hepatoblastoma cell line HepG2" 
@@ -748,7 +756,7 @@
   authors:  Mavri-Damelin, D., S. Eaton, L. H. Damelin, M. Rees, H. J. Hodgson, and C. Selden
   link:
     url: http://dx.doi.org/10.1016/j.biocel.2006.10.007
-    display:   Int J Biochem Cell Biol, 39: 555-64.(2007)
+    display:   Int J Biochem Cell Biol, 39 555-64.(2007)
   highlight: 1
 
 - title: "Fortified complementary foods with or without {alpha}-amylase treatment increase hemoglobin but do not reduce breast milk intake of 9 month old Zambian infants" 
@@ -756,7 +764,7 @@
   description: We love measuring things
   authors:  Owino, V. O., L. M. Kasonka, M. M. Sinkala, J. K. Wells, S. Eaton, T. Darch, A. Coward, A. M. Tomkins, and S. M. Filteau
   link:
-    url:     display:   AMERICAN JOURNAL OF CLINICAL NUTRITION, 86: 1094-103.(2007)
+    url:     display:   AMERICAN JOURNAL OF CLINICAL NUTRITION, 86 1094-103.(2007)
   highlight: 1
 
 - title: "Free radical scavenging inhibits STAT phosphorylation following in vivo ischemia/reperfusion injury" 
@@ -765,7 +773,7 @@
   authors:  McCormick, J., S. P. Barry, A. Sivarajah, G. Stefanutti, P. A. Townsend, K. M. Lawrence, S. Eaton, R. A. Knight, C. Thiemermann, D. S. Latchman, and A. Stephanou
   link:
     url: http://dx.doi.org/10.1096/fj.06-6188fje
-    display:   FASEB J, 20: 2115-7.(2006)
+    display:   FASEB J, 20 2115-7.(2006)
   highlight: 1
 
 - title: "Safety and feasibility of exhaled breath condensate collection in ventilated infants and children" 
@@ -774,7 +782,7 @@
   authors:  Muller, W. G., F. Morini, S. Eaton, M. Peters, and A. Jaffe
   link:
     url: http://dx.doi.org/10.1183/09031936.06.00063505
-    display:   EUR RESPIR J, 28: 479-85.(2006)
+    display:   EUR RESPIR J, 28 479-85.(2006)
   highlight: 1
 
 - title: "Decreased monocyte class II MHC expression following major abdominal surgery in children is related to operative stress" 
@@ -782,7 +790,7 @@
   description: We love measuring things
   authors:  McHoney, M., N. J. Klein, S. Eaton, and A. Pierro
   link:
-    url:     display:   PEDIATRIC SURGERY INTERNATIONAL, 22: 330-34.(2006)
+    url:     display:   PEDIATRIC SURGERY INTERNATIONAL, 22 330-34.(2006)
   highlight: 1
 
 - title: "Altered cleavage and localization of PINK1 to aggresomes in the presence of proteasomal stress" 
@@ -791,7 +799,7 @@
   authors:  Muqit, M. M., P. M. Abou-Sleiman, A. T. Saurin, K. Harvey, S. Gandhi, E. Deas, S. Eaton, M. D. Payne Smith, K. Venner, A. Matilla, D. G. Healy, W. P. Gilks, A. J. Lees, J. Holton, T. Revesz, P. J. Parker, R. J. Harvey, N. W. Wood, and D. S. Latchman
   link:
     url: http://dx.doi.org/10.1111/j.1471-4159.2006.03845.x
-    display:   J Neurochem, 98: 156-69.(2006)
+    display:   J Neurochem, 98 156-69.(2006)
   highlight: 1
 
 - title: "Absorption of carbon dioxide during laparoscopy in children measured using a novel mass spectrometric technique" 
@@ -799,7 +807,7 @@
   description: We love measuring things
   authors:  Pacilli, M., A. Pierro, C. Kingsley, J. I. Curry, J. Herod, and S. Eaton
   link:
-    url:     display:   British Journal of Anaesthesia, 97 (2): 215-19.(2006)
+    url:     display:   British Journal of Anaesthesia, 97 (2) 215-19.(2006)
   highlight: 1
 
 - title: "Determination of coenzyme Q10 status in blood mononuclear cells, skeletal muscle, and plasma by HPLC with di-propoxy-coenzyme Q10 as an internal standard" 
@@ -808,7 +816,7 @@
   authors:  Duncan, A. J., S. J. Heales, K. Mills, S. Eaton, J. M. Land, and I. P. Hargreaves
   link:
     url: http://dx.doi.org/10.1373/clinchem.2005.054643
-    display:   Clin Chem, 51: 2380-2.(2005)
+    display:   Clin Chem, 51 2380-2.(2005)
   highlight: 1
 
 - title: "Moderate hypothermia protects against systemic oxidative stress in a rat model of intestinal ischemia and reperfusion injury" 
@@ -817,7 +825,7 @@
   authors:  Stefanutti, G., A. Pierro, S. Vinardi, L. Spitz, and S. Eaton
   link:
     url: http://dx.doi.org/10.1097/01.shk.0000168871.60531.6f
-    display:   Shock, 24: 159-64.(2005)
+    display:   Shock, 24 159-64.(2005)
   highlight: 1
 
 - title: "Total glutathione is not decreased in infants with necrotizing enterocolitis" 
@@ -825,7 +833,7 @@
   description: We love measuring things
   authors:  Hall, N. J., J. Ali, A. Pierro, and S. Eaton
   link:
-    url:     display:   JOURNAL OF PEDIATRIC SURGERY, 40: 769-73.(2005)
+    url:     display:   JOURNAL OF PEDIATRIC SURGERY, 40 769-73.(2005)
   highlight: 1
 
 - title: "The synthesis of internal standards for the quantitative determination of sphingolipids by tandem mass spectrometry" 
@@ -834,7 +842,7 @@
   authors:  Mills, K., S. Eaton, V. Ledger, E. Young, and B. Winchester
   link:
     url: http://dx.doi.org/10.1002/rcm.1977
-    display:   RAPID COMMUN MASS SPECTROM, 19: 1739-48.(2005)
+    display:   RAPID COMMUN MASS SPECTROM, 19 1739-48.(2005)
   highlight: 1
 
 - title: "Hyperinsulinism of infancy associated with a novel splice site mutation in the short-chain 3-hydroxyacyl-CoA dehydrogenase gene" 
@@ -842,7 +850,7 @@
   description: We love measuring things
   authors:  Hussain, K., P. T. Clayton, S. Krywawych, I. Chatziandreou, P. Mills, D. W. Ginbey, A. J. J. M. Geboers, R. Berger, I. E. T. van den Berg, and S. Eaton
   link:
-    url:     display:   The Journal of Pediatrics, 146: 706-08.(2005)
+    url:     display:   The Journal of Pediatrics, 146 706-08.(2005)
   highlight: 1
 
 - title: "The cardioprotective effect of urocortin during ischaemia/reperfusion involves the prevention of mitochondrial damage" 
@@ -851,7 +859,7 @@
   authors:  Lawrence, K. M., P. A. Townsend, S. M. Davidson, C. J. Carroll, S. Eaton, M. Hubank, R. A. Knight, A. Stephanou, and D. S. Latchman
   link:
     url: http://dx.doi.org/10.1016/j.bbrc.2004.06.170
-    display:   Biochem Biophys Res Commun, 321: 479-86.(2004)
+    display:   Biochem Biophys Res Commun, 321 479-86.(2004)
   highlight: 1
 
 - title: "Tyrosine nitration of carnitine palmitoyl transferase I during endotoxaemia in suckling rats" 
@@ -860,7 +868,7 @@
   authors:  Fukumoto, K., A. Pierro, V. A. Zammit, L. Spitz, and S. Eaton
   link:
     url: http://dx.doi.org/10.1016/j.bbalip.2004.03.006
-    display:   Biochim Biophys Acta, 1683: 1-6.(2004)
+    display:   Biochim Biophys Acta, 1683 1-6.(2004)
   highlight: 1
 
 - title: "The protective effect of moderate hypothermia during intestinal ischemia-reperfusion is associated with modification of hepatic transcription factor activation" 
@@ -868,7 +876,7 @@
   description: We love measuring things
   authors:  Parkinson, E. J., P. A. Townsend, A. Stephanou, D. S. Latchman, S. Eaton, and A. Pierro
   link:
-    url:     display:   JOURNAL OF PEDIATRIC SURGERY, 39: 696-701.(2004)
+    url:     display:   JOURNAL OF PEDIATRIC SURGERY, 39 696-701.(2004)
   highlight: 1
 
 - title: "Melatonin protects from, but does not reverse, the effects of mediators of sepsis on liver bioenergetics" 
@@ -876,7 +884,7 @@
   description: We love measuring things
   authors:  Basile, M., C. Romeo, E. Gitto, L. Spitz, A. Pierro, and S. Eaton
   link:
-    url:     display:   PEDIATRIC SURGERY INTERNATIONAL, 20: 263-66.(2004)
+    url:     display:   PEDIATRIC SURGERY INTERNATIONAL, 20 263-66.(2004)
   highlight: 1
 
 - title: "Heart energy metabolism after intestinal ischaemia and reperfusion" 
@@ -885,7 +893,7 @@
   authors:  Stefanutti, G., P. Vejchapipat, S. R. Williams, A. Pierro, and S. Eaton
   link:
     url: http://dx.doi.org/10.1016/j.jpedsurg.2003.10.006
-    display:   J Pediatr Surg, 39: 179-83; discussion 79-83.(2004)
+    display:   J Pediatr Surg, 39 179-83; discussion 79-83.(2004)
   highlight: 1
 
 - title: "Cardiac and renal mitochondria respond differently to hydrogen peroxide in suckling rats" 
@@ -894,7 +902,7 @@
   authors:  Fukumoto, K., A. Pierro, L. Spitz, and S. Eaton
   link:
     url: http://dx.doi.org/10.1016/s0022-4804(03)00233-6
-    display:   J SURG RES, 113: 146-50.(2003)
+    display:   J SURG RES, 113 146-50.(2003)
   highlight: 1
 
 - title: "Neonatal endotoxemia affects heart but not kidney bioenergetics" 
@@ -902,7 +910,7 @@
   description: We love measuring things
   authors:  ———
   link:
-    url:     display:   JOURNAL OF PEDIATRIC SURGERY, 38: 690-93.(2003)
+    url:     display:   JOURNAL OF PEDIATRIC SURGERY, 38 690-93.(2003)
   highlight: 1
 
 - title: "Hypothermia throughout intestinal ischaemia-reperfusion injury attenuates lung neutrophil infiltration" 
@@ -911,7 +919,7 @@
   authors:  Vinardi, S., A. Pierro, E. J. Parkinson, P. Vejchapipat, G. Stefanutti, L. Spitz, and S. Eaton
   link:
     url: http://dx.doi.org/10.1053/jpsu.2003.50017
-    display:   J Pediatr Surg, 38: 88-91; discussion 88-91.(2003)
+    display:   J Pediatr Surg, 38 88-91; discussion 88-91.(2003)
   highlight: 1
 
 - title: "Body temperature and heat production in suckling rat endotoxaemia: beneficial effects of glutamine" 
@@ -920,7 +928,7 @@
   authors:  Garrett-Cox, R. G., A. Pierro, L. Spitz, and S. Eaton
   link:
     url: http://dx.doi.org/10.1053/jpsu.2003.50006
-    display:   J Pediatr Surg, 38: 37-44; discussion 37-44.(2003)
+    display:   J Pediatr Surg, 38 37-44; discussion 37-44.(2003)
   highlight: 1
 
 - title: "Mitochondrial fatty acid beta-oxidation in the retinal pigment epithelium" 
@@ -929,7 +937,7 @@
   authors:  Tyni, T., M. Johnson, S. Eaton, M. Pourfarzam, R. Andrews, and D. M. Turnbull
   link:
     url: http://dx.doi.org/10.1203/00006450-200210000-00021
-    display:   PEDIATR RES, 52: 595-600.(2002)
+    display:   PEDIATR RES, 52 595-600.(2002)
   highlight: 1
 
 - title: "Hepatocyte mitochondrial metabolism is inhibited in neonatal rat endotoxaemia: effects of glutamine" 
@@ -937,7 +945,7 @@
   description: We love measuring things
   authors:  Markley, M. A., A. Pierro, and S. Eaton
   link:
-    url:     display:   Clinical Science, 102: 337-44.(2002)
+    url:     display:   Clinical Science, 102 337-44.(2002)
   highlight: 1
 
 - title: "Hepatic glutamine metabolism during endotoxemia in neonatal rats" 
@@ -946,7 +954,7 @@
   authors:  Vejchapipat, P., S. Eaton, K. Fukumoto, H. G. Parkes, L. Spitz, and A. Pierro
   link:
     url: http://dx.doi.org/10.1016/s0899-9007(01)00772-9
-    display:   Nutrition, 18: 293-7.(2002)
+    display:   Nutrition, 18 293-7.(2002)
   highlight: 1
 
 - title: "Fatty acid oxidation in neonatal hepatocytes: effects of sepsis and glutamine" 
@@ -955,7 +963,7 @@
   authors:  Kim, S. C., A. Pierro, M. Zamparelli, L. Spitz, and S. Eaton
   link:
     url: http://dx.doi.org/10.1016/s0899-9007(01)00785-7
-    display:   Nutrition, 18: 298-300.(2002)
+    display:   Nutrition, 18 298-300.(2002)
   highlight: 1
 
 - title: "Differential effects of neonatal endotoxemia on heart and kidney carnitine palmitoyl transferase I" 
@@ -964,7 +972,7 @@
   authors:  Fukumoto, K., A. Pierro, L. Spitz, and S. Eaton
   link:
     url: http://dx.doi.org/10.1053/jpsu.2002.32263
-    display:   J Pediatr Surg, 37: 723-6.(2002)
+    display:   J Pediatr Surg, 37 723-6.(2002)
   highlight: 1
 
 - title: "Hyperinsulinism in short-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency reveals the importance of beta-oxidation in insulin secretion" 
@@ -973,7 +981,7 @@
   authors:  Clayton, P. T., S. Eaton, A. Aynsley-Green, M. Edginton, K. Hussain, S. Krywawych, V. Datta, H. E. Malingre, R. Berger, and I. E. van den Berg
   link:
     url: http://dx.doi.org/10.1172/JCI11294
-    display:   J Clin Invest, 108: 457-65.(2001)
+    display:   J Clin Invest, 108 457-65.(2001)
   highlight: 1
 
 - title: "Carnitine palmitoyl transferase I and the control of beta-oxidation in heart mitochondria" 
@@ -982,7 +990,7 @@
   authors:  Eaton, S., K. Bartlett, and P. A. Quant
   link:
     url: http://dx.doi.org/10.1006/bbrc.2001.5201
-    display:   Biochem Biophys Res Commun, 285: 537-9.(2001)
+    display:   Biochem Biophys Res Commun, 285 537-9.(2001)
   highlight: 1
 
 - title: "Glutamine and glutathione counteract the inhibitory effects of mediators of sepsis in neonatal hepatocytes" 
@@ -991,7 +999,7 @@
   authors:  Babu, R., S. Eaton, D. P. Drake, L. Spitz, and A. Pierro
   link:
     url: http://dx.doi.org/10.1053/jpsu.2001.20690
-    display:   J Pediatr Surg, 36: 282-6.(2001)
+    display:   J Pediatr Surg, 36 282-6.(2001)
   highlight: 1
 
 - title: "Effect of lipopolysaccharide and cytokines on oxidative metabolism in neonatal rat hepatocytes" 
@@ -1000,7 +1008,7 @@
   authors:  New, K. J., S. Eaton, K. R. Elliott, L. Spitz, and P. A. Quant
   link:
     url: http://dx.doi.org/10.1053/jpsu.2001.20710
-    display:   J Pediatr Surg, 36: 338-40.(2001)
+    display:   J Pediatr Surg, 36 338-40.(2001)
   highlight: 1
 
 - title: "Nitric oxide inhibits neonatal hepatocyte oxidative metabolism" 
@@ -1009,7 +1017,7 @@
   authors:  Romeo, C., S. Eaton, L. Spitz, and A. Pierro
   link:
     url: http://dx.doi.org/10.1016/s0022-3468(00)80011-1
-    display:   J Pediatr Surg, 35: 44-8.(2000)
+    display:   J Pediatr Surg, 35 44-8.(2000)
   highlight: 1
 
 - title: "Amino acids counteract the inhibitory effect of fentanyl on hepatocyte oxidative metabolism" 
@@ -1018,7 +1026,7 @@
   authors:  Zamparelli, M., S. Eaton, L. Spitz, and A. Pierro
   link:
     url: http://dx.doi.org/10.1053/jpsu.2000.6047
-    display:   J Pediatr Surg, 35: 736-9.(2000)
+    display:   J Pediatr Surg, 35 736-9.(2000)
   highlight: 1
 
 - title: "Lipid peroxidation can be reduced in infants on total parenteral nutrition by promoting fat utilisation" 
@@ -1026,7 +1034,7 @@
   description: We love measuring things
   authors:  Basu, R., D. P. Muller, S. Eaton, I. Merryweather, and A. Pierro
   link:
-    url:     display:   JOURNAL OF PEDIATRIC SURGERY, 34: 255-59.(1999)
+    url:     display:   JOURNAL OF PEDIATRIC SURGERY, 34 255-59.(1999)
   highlight: 1
 
 - title: "Analgesic doses of fentanyl impair oxidative metabolism of neonatal hepatocytes" 
@@ -1035,7 +1043,7 @@
   authors:  Zamparelli, M., S. Eaton, P. A. Quant, A. McEwan, L. Spitz, and A. Pierro
   link:
     url: http://dx.doi.org/10.1016/s0022-3468(99)90186-0
-    display:   J Pediatr Surg, 34: 260-3.(1999)
+    display:   J Pediatr Surg, 34 260-3.(1999)
   highlight: 1
 
 - title: "Neonatal oxidative liver metabolism: effects of hydrogen peroxide, a putative mediator of septic damage" 
@@ -1044,7 +1052,7 @@
   authors:  Romeo, C., S. Eaton, P. A. Quant, L. Spitz, and A. Pierro
   link:
     url: http://dx.doi.org/10.1016/s0022-3468(99)90577-8
-    display:   J Pediatr Surg, 34: 1107-11.(1999)
+    display:   J Pediatr Surg, 34 1107-11.(1999)
   highlight: 1
 
 - title: "Intermediates of myocardial mitochondrial beta-oxidation: possible channelling of NADH and of CoA esters" 
@@ -1053,7 +1061,7 @@
   authors:  Eaton, S., K. Bartlett, and M. Pourfarzam
   link:
     url: http://dx.doi.org/10.1016/s1388-1981(99)00027-x
-    display:   Biochim Biophys Acta, 1437: 402-8.(1999)
+    display:   Biochim Biophys Acta, 1437 402-8.(1999)
   highlight: 1
 
 - title: "Free radical formation in infants: the effect of critical illness, parenteral nutrition, and enteral feeding" 
@@ -1062,7 +1070,7 @@
   authors:  Basu, R., D. P. Muller, E. Papp, I. Merryweather, S. Eaton, N. Klein, and A. Pierro
   link:
     url: http://dx.doi.org/10.1016/s0022-3468(99)90573-0
-    display:   J Pediatr Surg, 34: 1091-5.(1999)
+    display:   J Pediatr Surg, 34 1091-5.(1999)
   highlight: 1
 
 - title: "Smith-Lemli-Opitz syndrome: a variable clinical and biochemical phenotype" 
@@ -1071,7 +1079,7 @@
   authors:  Ryan, A. K., K. Bartlett, P. Clayton, S. Eaton, L. Mills, D. Donnai, R. M. Winter, and J. Burn
   link:
     url: http://dx.doi.org/10.1136/jmg.35.7.558
-    display:   J Med Genet, 35: 558-65.(1998)
+    display:   J Med Genet, 35 558-65.(1998)
   highlight: 1
 
 - title: "Control of mitochondrial beta-oxidation: sensitivity of the trifunctional protein to [NAD+]/[NADH] and [acetyl-CoA]/[CoA]" 
@@ -1080,7 +1088,7 @@
   authors:  Eaton, S., B. Middleton, and K. Bartlett
   link:
     url: http://dx.doi.org/10.1016/s0167-4838(98)00246-5
-    display:   Biochim Biophys Acta, 1429: 230-8.(1998)
+    display:   Biochim Biophys Acta, 1429 230-8.(1998)
   highlight: 1
 
 - title: "The effect of respiratory chain impairment of beta-oxidation in rat heart mitochondria" 
@@ -1089,7 +1097,7 @@
   authors:  Eaton, S., M. Pourfarzam, and K. Bartlett
   link:
     url: http://dx.doi.org/10.1042/bj3190633
-    display:   Biochemical Journal, 319 ( Pt 2): 633-40.(1996)
+    display:   Biochemical Journal, 319 ( Pt 2) 633-40.(1996)
   highlight: 1
 
 - title: "beta-Oxidation in human alcoholic and non-alcoholic hepatic steatosis" 
@@ -1098,7 +1106,7 @@
   authors:  Eaton, S., A. M. Zaitoun, C. O. Record, and K. Bartlett
   link:
     url: http://dx.doi.org/10.1042/cs0900307
-    display:   Clin Sci (Lond), 90: 307-13.(1996)
+    display:   Clin Sci (Lond), 90 307-13.(1996)
   highlight: 1
 
 - title: "An HPLC assay for sn-1,2-diacylglycerol" 
@@ -1107,7 +1115,7 @@
   authors:  Eaton, S., E. Shmueli, H. al-Mardini, K. Bartlett, and C. O. Record
   link:
     url: http://dx.doi.org/10.1016/0009-8981(94)05799-x
-    display:   Clin Chim Acta, 234: 71-8.(1995)
+    display:   Clin Chim Acta, 234 71-8.(1995)
   highlight: 1
 
 - title: "Redox control of beta-oxidation in rat liver mitochondria" 
@@ -1116,7 +1124,7 @@
   authors:  Eaton, S., D. M. Turnbull, and K. Bartlett
   link:
     url: http://dx.doi.org/10.1111/j.1432-1033.1994.tb18668.x
-    display:   Eur J Biochem, 220: 671-81.(1994)
+    display:   Eur J Biochem, 220 671-81.(1994)
   highlight: 1
 
 - title: "Investigation of beta-oxidation in human liver biopsies" 
@@ -1125,7 +1133,7 @@
   authors:  Eaton, S., C. O. Record, and K. Bartlett
   link:
     url: http://dx.doi.org/10.1016/0009-8981(93)90050-e
-    display:   Clin Chim Acta, 220: 219-24.(1993)
+    display:   Clin Chim Acta, 220 219-24.(1993)
   highlight: 1
 
 - title: "Intramitochondrial control of the oxidation of hexadecanoate in skeletal muscle. A study of the acyl-CoA esters which accumulate during rat skeletal-muscle mitochondrial beta-oxidation of [U-14C]hexadecanoate and [U-14C]hexadecanoyl-carnitine" 
@@ -1134,7 +1142,7 @@
   authors:  Eaton, S., A. K. Bhuiyan, R. S. Kler, D. M. Turnbull, and K. Bartlett
   link:
     url: http://dx.doi.org/10.1042/bj2890161
-    display:   Biochemical Journal, 289 ( Pt 1): 161-8.(1993)
+    display:   Biochemical Journal, 289 ( Pt 1) 161-8.(1993)
   highlight: 1
 
 - title: "Quantitation of acyl-CoA and acylcarnitine esters accumulated during abnormal mitochondrial fatty acid oxidation" 
@@ -1142,7 +1150,7 @@
   description: We love measuring things
   authors:  Kler, R. S., S. Jackson, K. Bartlett, L. A. Bindoff, S. Eaton, M. Pourfarzam, F. E. Frerman, S. I. Goodman, N. J. Watmough, and D. M. Turnbull
   link:
-    url:     display:   J Biol Chem, 266: 22932-8.(1991)
+    url:     display:   J Biol Chem, 266 22932-8.(1991)
   highlight: 1
 
 - title: "Intermediates of peroxisomal beta-oxidation. A study of the fatty acyl-CoA esters which accumulate during peroxisomal beta-oxidation of [U-14C]hexadecanoate" 
@@ -1151,16 +1159,6 @@
   authors:  Bartlett, K., R. Hovik, S. Eaton, N. J. Watmough, and H. Osmundsen
   link:
     url: http://dx.doi.org/10.1042/bj2700175
-    display:   Biochemical Journal, 270: 175-80.(1990)
+    display:   Biochemical Journal, 270 175-80.(1990)
   highlight: 1
 
-
-
-- title: "Intermediates of peroxisomal beta-oxidation. A study of the fatty acyl-CoA esters which accumulate during peroxisomal beta-oxidation of [U-14C]hexadecanoate" 
-  image: YSR.png
-  description: We love measuring things
-  authors:  Bartlett, K., R. Hovik, S. Eaton, N. J. Watmough, and H. Osmundsen
-  link:
-    url: http://dx.doi.org/10.1042/bj2700175
-    display:   Biochemical Journal, 270 175-80 (1990)
-  highlight: 1
