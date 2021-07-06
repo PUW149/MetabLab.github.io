@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Lab PUW149 - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Lab PUW149 at UCL Great Ormond Street Institute of Child Health."
 sitemap: false
 permalink: /
 ---
