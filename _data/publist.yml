@@ -1,10 +1,9 @@
-- title: "Intermediates of peroxisomal beta-oxidation. A study of the fatty acyl-CoA esters which accumulate during peroxisomal beta-oxidation of [U-14C]hexadecanoate" 
-  image: YSR.png
+- title: "K.Vita®: a feasibility study of a blend of medium chain triglycerides to manage drug-resistant epilepsy" 
+  image: placeholder.png
   description: We love measuring things
-  authors:  Bartlett, K., R. Hovik, S. Eaton, N. J. Watmough, and H. Osmundsen
+  authors:  Schoeler, N., M. Orford, U. Vivekananda, Z. Simpson, B. Van de Bor, H. Smith, S. Balestrini, T. Rutherford, E. Brennan, J. McKenna, B. Lambert, T. Barker, R. Jackson, R. Williams, S. Sisodiya, S. Eaton, S. Heales, H. Cross, M. Walker, and K. Vita® Study Group
   link:
-    url: http://dx.doi.org/10.1042/bj2700175
-    display:   Biochemical Journal, 270 175-80 (1990)
+    url:     display:   Brain Communications (2021)
   highlight: 1
 
 - title: "Bifidobacterium breve BBG-001 and intestinal barrier function in preterm babies: Exploratory Studies from the PiPS Trial" 
@@ -149,7 +148,7 @@
   link:
     url: http://dx.doi.org/10.1007/s00383-018-4372-8
     display:   Pediatr Surg Int, 35 21-27.(2019)
-  highlight: 1
+  highlight: 0
 
 - title: "Metabolic rate of major organs and tissues in young adult South Asian women" 
   image: placeholder.png
@@ -230,7 +229,7 @@
   link:
     url: http://dx.doi.org/10.1038/s41598-018-26371-y
     display:   Sci Rep, 8 8398.(2018)
-  highlight: 1
+  highlight: 0
 
 - title: "Metabolic profile of children with extrahepatic portal vein obstruction undergoing meso-Rex bypass" 
   image: placeholder.png
@@ -239,7 +238,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.jss.2017.10.010
     display:   J SURG RES, 223 109-14.(2018)
-  highlight: 1
+  highlight: 0
 
 - title: "Multi-stage bioengineering of a layered oesophagus with in vitro expanded muscle and epithelial adult progenitors" 
   image: placeholder.png
@@ -275,7 +274,7 @@
   link:
     url: http://dx.doi.org/10.1371/journal.pone.0179341
     display:   PLOS ONE, 12 e0179341.(2017)
-  highlight: 1
+  highlight: 0
 
 - title: "Inhibition of neuronal mitochondrial complex I or lysosomal glucocerebrosidase is associated with increased dopamine and serotonin turnover" 
   image: placeholder.png
@@ -284,16 +283,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.neuint.2017.02.013
     display:   Neurochem Int, 109 94-100.(2017)
-  highlight: 1
-
-- title: "Appendectomy versus non-operative treatment for acute uncomplicated appendicitis in children: study protocol for a multicentre, open-label, non-inferiority, randomised controlled trial" 
-  image: placeholder.png
-  description: We love measuring things
-  authors:  Hall, N. J., S. Eaton, O. Abbo, A. P. Arnaud, M. Beaudin, M. Brindle, A. Butter, D. Davies, T. Jancelewicz, K. Johnson, R. Keijzer, E. Lapidus-Krol, M. Offringa, N. Piche, R. Rintala, E. Skarsgard, J. F. Svensson, W. J. Ungar, T. Wester, A. R. Willan, A. Zani, S. D. St Peter, and A. Pierro
-  link:
-    url: http://dx.doi.org/10.1136/bmjpo-2017-000028
-    display:   BMJ Paediatr Open, 1.(2017)
-  highlight: 1
+  highlight: 0
 
 - title: "Human Amniocytes Are Receptive to Chemically Induced Reprogramming to Pluripotency" 
   image: placeholder.png
@@ -302,7 +292,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.ymthe.2016.11.014
     display:   Mol Ther, 25 427-42.(2017)
-  highlight: 1
+  highlight: 0
 
 - title: "Mutations in SLC39A14 disrupt manganese homeostasis and cause childhood-onset parkinsonism-dystonia" 
   image: placeholder.png
@@ -311,7 +301,7 @@
   link:
     url: http://dx.doi.org/10.1038/ncomms11601
     display:   Nat Commun, 7 11601.(2016)
-  highlight: 1
+  highlight: 0
 
 - title: "Optimization of Liver Decellularization Maintains Extracellular Matrix Micro-Architecture and Composition Predisposing to Effective Cell Seeding" 
   image: placeholder.png
@@ -320,7 +310,7 @@
   link:
     url: http://dx.doi.org/10.1371/journal.pone.0155324
     display:   PLOS ONE, 11 e0155324.(2016)
-  highlight: 1
+  highlight: 0
 
 - title: "Intestinal epithelial cell injury is rescued by hydrogen sulfide" 
   image: placeholder.png
@@ -329,7 +319,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.jpedsurg.2016.02.019
     display:   J Pediatr Surg, 51 775-8.(2016)
-  highlight: 1
+  highlight: 0
 
 - title: "Bioimpedance index for measurement of total body water in severely malnourished children: Assessing the effect of nutritional oedema" 
   image: placeholder.png
@@ -338,7 +328,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.clnu.2015.05.002
     display:   Clin Nutr, 35 713-7.(2016)
-  highlight: 1
+  highlight: 0
 
 - title: "Body composition in young female eating-disorder patients with severe weight loss and controls: evidence from the four-component model and evaluation of DXA" 
   image: placeholder.png
@@ -347,7 +337,7 @@
   link:
     url: http://dx.doi.org/10.1038/ejcn.2015.111
     display:   Eur J Clin Nutr, 69 1330-5.(2015)
-  highlight: 1
+  highlight: 0
 
 - title: "Correlation of low CD73 expression on synovial lymphocytes with reduced adenosine generation and higher disease severity in juvenile idiopathic arthritis" 
   image: placeholder.png
@@ -356,7 +346,7 @@
   link:
     url: http://dx.doi.org/10.1002/art.38959
     display:   Arthritis Rheumatol, 67 545-54.(2015)
-  highlight: 1
+  highlight: 0
 
 - title: "Ischaemic accumulation of succinate controls reperfusion injury through mitochondrial ROS" 
   image: placeholder.png
@@ -374,7 +364,7 @@
   link:
     url: http://dx.doi.org/10.1007/s00383-014-3615-6
     display:   Pediatr Surg Int, 30 1249-56.(2014)
-  highlight: 1
+  highlight: 0
 
 - title: "The ketogenic diet component decanoic acid increases mitochondrial citrate synthase and complex I activity in neuronal cells" 
   image: placeholder.png
@@ -392,7 +382,7 @@
   link:
     url: http://dx.doi.org/10.1371/journal.pone.0109143
     display:   PLOS ONE, 9 e109143.(2014)
-  highlight: 1
+  highlight: 0
 
 - title: "Amniotic fluid stem cells improve survival and enhance repair of damaged intestine in necrotising enterocolitis via a COX-2 dependent mechanism" 
   image: placeholder.png
@@ -410,7 +400,7 @@
   link:
     url: http://dx.doi.org/10.1055/s-0033-1350059
     display:   Eur J Pediatr Surg, 24 57-60.(2014)
-  highlight: 1
+  highlight: 0
 
 - title: "Levels of 5-methyltetrahydrofolate and ascorbic acid in cerebrospinal fluid are correlated: implications for the accelerated degradation of folate by reactive oxygen species" 
   image: placeholder.png
@@ -419,7 +409,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.neuint.2013.10.002
     display:   Neurochem Int, 63 750-5.(2013)
-  highlight: 1
+  highlight: 0
 
 - title: "Single-cell PCR analysis of murine embryonic stem cells cultured on different substrates highlights heterogeneous expression of stem cell markers" 
   image: placeholder.png
@@ -428,7 +418,7 @@
   link:
     url: http://dx.doi.org/10.1111/boc.201300034
     display:   Biol Cell, 105 549-60.(2013)
-  highlight: 1
+  highlight: 0
 
 - title: "Human amniotic fluid stem cell differentiation along smooth muscle lineage" 
   image: placeholder.png
@@ -437,7 +427,7 @@
   link:
     url: http://dx.doi.org/10.1096/fj.12-218578
     display:   FASEB J, 27 4853-65.(2013)
-  highlight: 1
+  highlight: 0
 
 - title: "Coenzyme Q10 quantification in muscle, fibroblasts and cerebrospinal fluid by liquid chromatography/tandem mass spectrometry using a novel deuterated internal standard" 
   image: placeholder.png
@@ -446,7 +436,7 @@
   link:
     url: http://dx.doi.org/10.1002/rcm.6529
     display:   RAPID COMMUN MASS SPECTROM, 27 924-30.(2013)
-  highlight: 1
+  highlight: 0
 
 - title: "Cell metabolism sets the differences between subpopulations of satellite cells (SCs)" 
   image: placeholder.png
@@ -455,7 +445,7 @@
   link:
     url: http://dx.doi.org/10.1186/1471-2121-14-24
     display:   BMC Cell Biol, 14 24.(2013)
-  highlight: 1
+  highlight: 0
 
 - title: "Preservation of micro-architecture and angiogenic potential in a pulmonary acellular matrix obtained using intermittent intra-tracheal flow of detergent enzymatic treatment" 
   image: placeholder.png
@@ -464,7 +454,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.biomaterials.2013.05.015
     display:   Biomaterials, 34 6638-48.(2013)
-  highlight: 1
+  highlight: 0
 
 - title: "Energy expenditure compared to physical activity measured by accelerometry and self-report in adolescents: a validation study" 
   image: placeholder.png
@@ -473,7 +463,7 @@
   link:
     url: http://dx.doi.org/10.1371/journal.pone.0077036
     display:   PLOS ONE, 8 e77036.(2013)
-  highlight: 1
+  highlight: 0
 
 - title: "Validation of energy requirement references for exclusively breast-fed infants" 
   image: placeholder.png
@@ -482,7 +472,7 @@
   link:
     url: http://dx.doi.org/10.1017/S000711451200428X
     display:   Br J Nutr, 109 2036-43.(2013)
-  highlight: 1
+  highlight: 0
 
 - title: "Detergent enzymatic treatment for the development of a natural acellular matrix for oesophageal regeneration" 
   image: placeholder.png
@@ -491,7 +481,7 @@
   link:
     url: http://dx.doi.org/10.1007/s00383-012-3194-3
     display:   Pediatr Surg Int, 29 87-95.(2013)
-  highlight: 1
+  highlight: 0
 
 - title: "Randomized controlled trial of 4 compared with 6 mo of exclusive breastfeeding in Iceland: differences in breast-milk intake by stable-isotope probe" 
   image: placeholder.png
@@ -500,7 +490,7 @@
   link:
     url: http://dx.doi.org/10.3945/ajcn.111.030403
     display:   Am J Clin Nutr, 96 73-9.(2012)
-  highlight: 1
+  highlight: 0
 
 - title: "Leucine-sensitive hyperinsulinaemic hypoglycaemia in patients with loss of function mutations in 3-Hydroxyacyl-CoA Dehydrogenase" 
   image: placeholder.png
@@ -509,7 +499,7 @@
   link:
     url: http://dx.doi.org/10.1186/1750-1172-7-25
     display:   Orphanet J Rare Dis, 7 25.(2012)
-  highlight: 1
+  highlight: 0
 
 - title: "Severe resistance to weight gain, lack of stored triglycerides in adipose tissue, hypoglycaemia, and increased energy expenditure: a novel disorder of energy homeostasis" 
   image: placeholder.png
@@ -518,7 +508,7 @@
   link:
     url: http://dx.doi.org/10.1159/000337248
     display:   Horm Res Paediatr, 77 261-8.(2012)
-  highlight: 1
+  highlight: 0
 
 - title: "The development of a peptide SRM-based tandem mass spectrometry assay for prenatal screening of Down syndrome" 
   image: placeholder.png
@@ -527,7 +517,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.jprot.2012.03.037
     display:   J Proteomics, 75 3248-57.(2012)
-  highlight: 1
+  highlight: 0
 
 - title: "A rat decellularized small bowel scaffold that preserves villus-crypt architecture for intestinal regeneration" 
   image: placeholder.png
@@ -536,7 +526,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.biomaterials.2012.01.012
     display:   Biomaterials, 33 3401-10.(2012)
-  highlight: 1
+  highlight: 0
 
 - title: "Microglial neurotransmitter receptors trigger superoxide production in microglia; consequences for microglial-neuronal interactions" 
   image: placeholder.png
@@ -545,7 +535,7 @@
   link:
     url: http://dx.doi.org/10.1111/j.1471-4159.2012.07659.x
     display:   J Neurochem, 121 287-301.(2012)
-  highlight: 1
+  highlight: 0
 
 - title: "Adequacy of milk intake during exclusive breastfeeding: a longitudinal study" 
   image: placeholder.png
@@ -554,7 +544,7 @@
   link:
     url: http://dx.doi.org/10.1542/peds.2011-0914
     display:   Pediatrics, 128 e907-14.(2011)
-  highlight: 1
+  highlight: 0
 
 - title: "Evaluation of lean tissue density for use in air displacement plethysmography in obese children and adolescents" 
   image: placeholder.png
@@ -563,7 +553,7 @@
   link:
     url: http://dx.doi.org/10.1038/ejcn.2011.76
     display:   Eur J Clin Nutr, 65 1094-101.(2011)
-  highlight: 1
+  highlight: 0
 
 - title: "New targets of urocortin-mediated cardioprotection" 
   image: placeholder.png
@@ -572,7 +562,7 @@
   link:
     url: http://dx.doi.org/10.1677/JME-09-0148
     display:   J Mol Endocrinol, 45 69-85.(2010)
-  highlight: 1
+  highlight: 0
 
 - title: "High expression of the ectonucleotidase CD39 on T cells from the inflamed site identifies two distinct populations, one regulatory and one memory T cell population" 
   image: placeholder.png
@@ -581,7 +571,7 @@
   link:
     url: http://dx.doi.org/10.4049/jimmunol.0803474
     display:   J Immunol, 185 134-43.(2010)
-  highlight: 1
+  highlight: 0
 
 - title: "Urinary intestinal fatty acid-binding protein concentration predicts extent of disease in necrotizing enterocolitis" 
   image: placeholder.png
@@ -590,7 +580,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.jpedsurg.2009.09.024
     display:   J Pediatr Surg, 45 735-40.(2010)
-  highlight: 1
+  highlight: 0
 
 - title: "Validation of bioelectrical impedance analysis in adolescents across different ethnic groups" 
   image: placeholder.png
@@ -599,7 +589,7 @@
   link:
     url: http://dx.doi.org/10.1038/oby.2009.344
     display:   Obesity (Silver Spring), 18 1252-9.(2010)
-  highlight: 1
+  highlight: 0
 
 - title: "Evaluation of DXA against the four-component model of body composition in obese children and adolescents aged 5-21 years" 
   image: placeholder.png
@@ -608,7 +598,7 @@
   link:
     url: http://dx.doi.org/10.1038/ijo.2009.249
     display:   Int J Obes (Lond), 34 649-55.(2010)
-  highlight: 1
+  highlight: 0
 
 - title: "Does intestinal permeability lead to organ failure in experimental necrotizing enterocolitis?" 
   image: placeholder.png
@@ -617,7 +607,7 @@
   link:
     url: http://dx.doi.org/10.1007/s00383-009-2507-7
     display:   Pediatr Surg Int, 26 85-9.(2010)
-  highlight: 1
+  highlight: 0
 
 - title: "Amniotic fluid stem cell migration after intraperitoneal injection in pup rats: implication for therapy" 
   image: placeholder.png
@@ -626,7 +616,7 @@
   link:
     url: http://dx.doi.org/10.1007/s00383-009-2504-x
     display:   Pediatr Surg Int, 26 79-84.(2010)
-  highlight: 1
+  highlight: 0
 
 - title: "Validation of BIA in obese children and adolescents and re-evaluation in a longitudinal study" 
   image: placeholder.png
@@ -635,7 +625,7 @@
   link:
     url: http://dx.doi.org/10.1038/oby.2009.98
     display:   Obesity (Silver Spring), 17 2245-50.(2009)
-  highlight: 1
+  highlight: 0
 
 - title: "Glutamine decreases inflammation in infant rat endotoxemia" 
   image: placeholder.png
@@ -644,7 +634,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.jpedsurg.2008.09.007
     display:   J Pediatr Surg, 44 523-9.(2009)
-  highlight: 1
+  highlight: 0
 
 - title: "Glutathione synthesis in intestinal ischaemia-reperfusion injury: effects of moderate hypothermia" 
   image: placeholder.png
@@ -653,7 +643,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.jpedsurg.2008.10.091
     display:   J Pediatr Surg, 44 353-7.(2009)
-  highlight: 1
+  highlight: 0
 
 - title: "3-Hydroxyacyl-coenzyme A dehydrogenase deficiency and hyperinsulinemic hypoglycemia: characterization of a novel mutation and severe dietary protein sensitivity" 
   image: placeholder.png
@@ -662,7 +652,7 @@
   link:
     url: http://dx.doi.org/10.1210/jc.2009-0423
     display:   J Clin Endocrinol Metab, 94 2221-5.(2009)
-  highlight: 1
+  highlight: 0
 
 - title: "Gastric emptying is accelerated following laparoscopic Nissen fundoplication" 
   image: placeholder.png
@@ -671,7 +661,7 @@
   link:
     url: http://dx.doi.org/10.1055/s-2008-1038919
     display:   Eur J Pediatr Surg, 18 395-7.(2008)
-  highlight: 1
+  highlight: 0
 
 - title: "Assessment of a neonatal rat model of necrotizing enterocolitis" 
   image: placeholder.png
@@ -680,7 +670,7 @@
   link:
     url: http://dx.doi.org/10.1055/s-2008-1038951
     display:   Eur J Pediatr Surg, 18 423-6.(2008)
-  highlight: 1
+  highlight: 0
 
 - title: "Simplified method for microlitre deuterium measurements in water and urine by gas chromatography-high-temperature conversion-isotope ratio mass spectrometry" 
   image: placeholder.png
@@ -689,7 +679,7 @@
   link:
     url: http://dx.doi.org/10.1002/rcm.3593
     display:   RAPID COMMUN MASS SPECTROM, 22 2097-103.(2008)
-  highlight: 1
+  highlight: 0
 
 - title: "Moderate hypothermia as a rescue therapy against intestinal ischemia and reperfusion injury in the rat" 
   image: placeholder.png
@@ -698,7 +688,7 @@
   link:
     url: http://dx.doi.org/10.1097/CCM.0b013e3181709e9f
     display:   Crit Care Med, 36 1564-72.(2008)
-  highlight: 1
+  highlight: 0
 
 - title: "Captopril reduces the severity of bowel damage in a neonatal rat model of necrotizing enterocolitis" 
   image: placeholder.png
@@ -707,7 +697,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.jpedsurg.2007.10.022
     display:   J Pediatr Surg, 43 308-14.(2008)
-  highlight: 1
+  highlight: 0
 
 - title: "Cells for bioartificial liver devices: The human hepatoma-derived cell line C3A produces urea but does not detoxify ammonia" 
   image: placeholder.png
@@ -716,7 +706,7 @@
   link:
     url:     
     display:   Biotechnology and Bioengineering, 99 644-51.(2008)
-  highlight: 1
+  highlight: 0
 
 - title: "Peroxynitrite decomposition catalyst FeTMPyP provides partial protection against intestinal ischemia and reperfusion injury in infant rats" 
   image: placeholder.png
@@ -725,7 +715,7 @@
   link:
     url: http://dx.doi.org/10.1203/PDR.0b013e31806790c0
     display:   PEDIATR RES, 62 43-8.(2007)
-  highlight: 1
+  highlight: 0
 
 - title: "A novel starch for the treatment of glycogen storage diseases" 
   image: placeholder.png
@@ -734,7 +724,7 @@
   link:
     url: http://dx.doi.org/10.1007/s10545-007-0479-0
     display:   J Inherit Metab Dis, 30 350-7.(2007)
-  highlight: 1
+  highlight: 0
 
 - title: "Oxidation of intravenous lipid in infants and children with systemic inflammatory response syndrome and sepsis" 
   image: placeholder.png
@@ -743,7 +733,7 @@
   link:
     url: http://dx.doi.org/10.1203/01.pdr.0000252441.91671.e5
     display:   PEDIATR RES, 61 228-32.(2007)
-  highlight: 1
+  highlight: 0
 
 - title: "Severe hypoinsulinaemic hypoglycaemia in a premature infant associated with poor weight gain and reduced adipose tissue" 
   image: placeholder.png
@@ -752,7 +742,7 @@
   link:
     url: http://dx.doi.org/10.1159/000100974
     display:   Horm Res, 68 91-8.(2007)
-  highlight: 1
+  highlight: 0
 
 - title: "Ornithine transcarbamylase and arginase I deficiency are responsible for diminished urea cycle function in the human hepatoblastoma cell line HepG2" 
   image: placeholder.png
@@ -761,7 +751,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.biocel.2006.10.007
     display:   Int J Biochem Cell Biol, 39 555-64.(2007)
-  highlight: 1
+  highlight: 0
 
 - title: "Fortified complementary foods with or without {alpha}-amylase treatment increase hemoglobin but do not reduce breast milk intake of 9 month old Zambian infants" 
   image: placeholder.png
@@ -770,7 +760,7 @@
   link:
     url:     
     display:   AMERICAN JOURNAL OF CLINICAL NUTRITION, 86 1094-103.(2007)
-  highlight: 1
+  highlight: 0
 
 - title: "Free radical scavenging inhibits STAT phosphorylation following in vivo ischemia/reperfusion injury" 
   image: placeholder.png
@@ -779,7 +769,7 @@
   link:
     url: http://dx.doi.org/10.1096/fj.06-6188fje
     display:   FASEB J, 20 2115-7.(2006)
-  highlight: 1
+  highlight: 0
 
 - title: "Safety and feasibility of exhaled breath condensate collection in ventilated infants and children" 
   image: placeholder.png
@@ -788,7 +778,7 @@
   link:
     url: http://dx.doi.org/10.1183/09031936.06.00063505
     display:   EUR RESPIR J, 28 479-85.(2006)
-  highlight: 1
+  highlight: 0
 
 - title: "Decreased monocyte class II MHC expression following major abdominal surgery in children is related to operative stress" 
   image: placeholder.png
@@ -797,7 +787,7 @@
   link:
     url:     
     display:   PEDIATRIC SURGERY INTERNATIONAL, 22 330-34.(2006)
-  highlight: 1
+  highlight: 0
 
 - title: "Altered cleavage and localization of PINK1 to aggresomes in the presence of proteasomal stress" 
   image: placeholder.png
@@ -806,7 +796,7 @@
   link:
     url: http://dx.doi.org/10.1111/j.1471-4159.2006.03845.x
     display:   J Neurochem, 98 156-69.(2006)
-  highlight: 1
+  highlight: 0
 
 - title: "Absorption of carbon dioxide during laparoscopy in children measured using a novel mass spectrometric technique" 
   image: placeholder.png
@@ -815,7 +805,7 @@
   link:
     url:     
     display:   British Journal of Anaesthesia, 97 (2) 215-19.(2006)
-  highlight: 1
+  highlight: 0
 
 - title: "Determination of coenzyme Q10 status in blood mononuclear cells, skeletal muscle, and plasma by HPLC with di-propoxy-coenzyme Q10 as an internal standard" 
   image: placeholder.png
@@ -824,7 +814,7 @@
   link:
     url: http://dx.doi.org/10.1373/clinchem.2005.054643
     display:   Clin Chem, 51 2380-2.(2005)
-  highlight: 1
+  highlight: 0
 
 - title: "Moderate hypothermia protects against systemic oxidative stress in a rat model of intestinal ischemia and reperfusion injury" 
   image: placeholder.png
@@ -833,7 +823,7 @@
   link:
     url: http://dx.doi.org/10.1097/01.shk.0000168871.60531.6f
     display:   Shock, 24 159-64.(2005)
-  highlight: 1
+  highlight: 0
 
 - title: "Total glutathione is not decreased in infants with necrotizing enterocolitis" 
   image: placeholder.png
@@ -842,7 +832,7 @@
   link:
     url:     
     display:   JOURNAL OF PEDIATRIC SURGERY, 40 769-73.(2005)
-  highlight: 1
+  highlight: 0
 
 - title: "The synthesis of internal standards for the quantitative determination of sphingolipids by tandem mass spectrometry" 
   image: placeholder.png
@@ -851,7 +841,7 @@
   link:
     url: http://dx.doi.org/10.1002/rcm.1977
     display:   RAPID COMMUN MASS SPECTROM, 19 1739-48.(2005)
-  highlight: 1
+  highlight: 0
 
 - title: "Hyperinsulinism of infancy associated with a novel splice site mutation in the short-chain 3-hydroxyacyl-CoA dehydrogenase gene" 
   image: placeholder.png
@@ -860,7 +850,7 @@
   link:
     url:     
     display:   The Journal of Pediatrics, 146 706-08.(2005)
-  highlight: 1
+  highlight: 0
 
 - title: "The cardioprotective effect of urocortin during ischaemia/reperfusion involves the prevention of mitochondrial damage" 
   image: placeholder.png
@@ -869,7 +859,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.bbrc.2004.06.170
     display:   Biochem Biophys Res Commun, 321 479-86.(2004)
-  highlight: 1
+  highlight: 0
 
 - title: "Tyrosine nitration of carnitine palmitoyl transferase I during endotoxaemia in suckling rats" 
   image: placeholder.png
@@ -878,7 +868,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.bbalip.2004.03.006
     display:   Biochim Biophys Acta, 1683 1-6.(2004)
-  highlight: 1
+  highlight: 0
 
 - title: "The protective effect of moderate hypothermia during intestinal ischemia-reperfusion is associated with modification of hepatic transcription factor activation" 
   image: placeholder.png
@@ -887,7 +877,7 @@
   link:
     url:     
     display:   JOURNAL OF PEDIATRIC SURGERY, 39 696-701.(2004)
-  highlight: 1
+  highlight: 0
 
 - title: "Melatonin protects from, but does not reverse, the effects of mediators of sepsis on liver bioenergetics" 
   image: placeholder.png
@@ -896,7 +886,7 @@
   link:
     url:     
     display:   PEDIATRIC SURGERY INTERNATIONAL, 20 263-66.(2004)
-  highlight: 1
+  highlight: 0
 
 - title: "Heart energy metabolism after intestinal ischaemia and reperfusion" 
   image: placeholder.png
@@ -905,7 +895,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.jpedsurg.2003.10.006
     display:   J Pediatr Surg, 39 179-83; discussion 79-83.(2004)
-  highlight: 1
+  highlight: 0
 
 - title: "Cardiac and renal mitochondria respond differently to hydrogen peroxide in suckling rats" 
   image: placeholder.png
@@ -914,7 +904,7 @@
   link:
     url: http://dx.doi.org/10.1016/s0022-4804(03)00233-6
     display:   J SURG RES, 113 146-50.(2003)
-  highlight: 1
+  highlight: 0
 
 - title: "Neonatal endotoxemia affects heart but not kidney bioenergetics" 
   image: placeholder.png
@@ -923,7 +913,7 @@
   link:
     url:     
     display:   JOURNAL OF PEDIATRIC SURGERY, 38 690-93.(2003)
-  highlight: 1
+  highlight: 0
 
 - title: "Hypothermia throughout intestinal ischaemia-reperfusion injury attenuates lung neutrophil infiltration" 
   image: placeholder.png
@@ -932,7 +922,7 @@
   link:
     url: http://dx.doi.org/10.1053/jpsu.2003.50017
     display:   J Pediatr Surg, 38 88-91; discussion 88-91.(2003)
-  highlight: 1
+  highlight: 0
 
 - title: "Body temperature and heat production in suckling rat endotoxaemia: beneficial effects of glutamine" 
   image: placeholder.png
@@ -941,7 +931,7 @@
   link:
     url: http://dx.doi.org/10.1053/jpsu.2003.50006
     display:   J Pediatr Surg, 38 37-44; discussion 37-44.(2003)
-  highlight: 1
+  highlight: 0
 
 - title: "Mitochondrial fatty acid beta-oxidation in the retinal pigment epithelium" 
   image: placeholder.png
@@ -950,7 +940,7 @@
   link:
     url: http://dx.doi.org/10.1203/00006450-200210000-00021
     display:   PEDIATR RES, 52 595-600.(2002)
-  highlight: 1
+  highlight: 0
 
 - title: "Hepatocyte mitochondrial metabolism is inhibited in neonatal rat endotoxaemia: effects of glutamine" 
   image: placeholder.png
@@ -959,7 +949,7 @@
   link:
     url:     
     display:   Clinical Science, 102 337-44.(2002)
-  highlight: 1
+  highlight: 0
 
 - title: "Hepatic glutamine metabolism during endotoxemia in neonatal rats" 
   image: placeholder.png
@@ -968,7 +958,7 @@
   link:
     url: http://dx.doi.org/10.1016/s0899-9007(01)00772-9
     display:   Nutrition, 18 293-7.(2002)
-  highlight: 1
+  highlight: 0
 
 - title: "Fatty acid oxidation in neonatal hepatocytes: effects of sepsis and glutamine" 
   image: placeholder.png
@@ -977,7 +967,7 @@
   link:
     url: http://dx.doi.org/10.1016/s0899-9007(01)00785-7
     display:   Nutrition, 18 298-300.(2002)
-  highlight: 1
+  highlight: 0
 
 - title: "Differential effects of neonatal endotoxemia on heart and kidney carnitine palmitoyl transferase I" 
   image: placeholder.png
@@ -986,7 +976,7 @@
   link:
     url: http://dx.doi.org/10.1053/jpsu.2002.32263
     display:   J Pediatr Surg, 37 723-6.(2002)
-  highlight: 1
+  highlight: 0
 
 - title: "Hyperinsulinism in short-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency reveals the importance of beta-oxidation in insulin secretion" 
   image: placeholder.png
@@ -995,7 +985,7 @@
   link:
     url: http://dx.doi.org/10.1172/JCI11294
     display:   J Clin Invest, 108 457-65.(2001)
-  highlight: 1
+  highlight: 0
 
 - title: "Carnitine palmitoyl transferase I and the control of beta-oxidation in heart mitochondria" 
   image: placeholder.png
@@ -1004,7 +994,7 @@
   link:
     url: http://dx.doi.org/10.1006/bbrc.2001.5201
     display:   Biochem Biophys Res Commun, 285 537-9.(2001)
-  highlight: 1
+  highlight: 0
 
 - title: "Glutamine and glutathione counteract the inhibitory effects of mediators of sepsis in neonatal hepatocytes" 
   image: placeholder.png
@@ -1013,7 +1003,7 @@
   link:
     url: http://dx.doi.org/10.1053/jpsu.2001.20690
     display:   J Pediatr Surg, 36 282-6.(2001)
-  highlight: 1
+  highlight: 0
 
 - title: "Effect of lipopolysaccharide and cytokines on oxidative metabolism in neonatal rat hepatocytes" 
   image: placeholder.png
@@ -1022,7 +1012,7 @@
   link:
     url: http://dx.doi.org/10.1053/jpsu.2001.20710
     display:   J Pediatr Surg, 36 338-40.(2001)
-  highlight: 1
+  highlight: 0
 
 - title: "Nitric oxide inhibits neonatal hepatocyte oxidative metabolism" 
   image: placeholder.png
@@ -1031,7 +1021,7 @@
   link:
     url: http://dx.doi.org/10.1016/s0022-3468(00)80011-1
     display:   J Pediatr Surg, 35 44-8.(2000)
-  highlight: 1
+  highlight: 0
 
 - title: "Amino acids counteract the inhibitory effect of fentanyl on hepatocyte oxidative metabolism" 
   image: placeholder.png
@@ -1040,7 +1030,7 @@
   link:
     url: http://dx.doi.org/10.1053/jpsu.2000.6047
     display:   J Pediatr Surg, 35 736-9.(2000)
-  highlight: 1
+  highlight: 0
 
 - title: "Lipid peroxidation can be reduced in infants on total parenteral nutrition by promoting fat utilisation" 
   image: placeholder.png
@@ -1049,7 +1039,7 @@
   link:
     url:     
     display:   JOURNAL OF PEDIATRIC SURGERY, 34 255-59.(1999)
-  highlight: 1
+  highlight: 0
 
 - title: "Analgesic doses of fentanyl impair oxidative metabolism of neonatal hepatocytes" 
   image: placeholder.png
@@ -1058,7 +1048,7 @@
   link:
     url: http://dx.doi.org/10.1016/s0022-3468(99)90186-0
     display:   J Pediatr Surg, 34 260-3.(1999)
-  highlight: 1
+  highlight: 0
 
 - title: "Neonatal oxidative liver metabolism: effects of hydrogen peroxide, a putative mediator of septic damage" 
   image: placeholder.png
@@ -1067,7 +1057,7 @@
   link:
     url: http://dx.doi.org/10.1016/s0022-3468(99)90577-8
     display:   J Pediatr Surg, 34 1107-11.(1999)
-  highlight: 1
+  highlight: 0
 
 - title: "Intermediates of myocardial mitochondrial beta-oxidation: possible channelling of NADH and of CoA esters" 
   image: placeholder.png
@@ -1076,7 +1066,7 @@
   link:
     url: http://dx.doi.org/10.1016/s1388-1981(99)00027-x
     display:   Biochim Biophys Acta, 1437 402-8.(1999)
-  highlight: 1
+  highlight: 0
 
 - title: "Free radical formation in infants: the effect of critical illness, parenteral nutrition, and enteral feeding" 
   image: placeholder.png
@@ -1085,7 +1075,7 @@
   link:
     url: http://dx.doi.org/10.1016/s0022-3468(99)90573-0
     display:   J Pediatr Surg, 34 1091-5.(1999)
-  highlight: 1
+  highlight: 0
 
 - title: "Smith-Lemli-Opitz syndrome: a variable clinical and biochemical phenotype" 
   image: placeholder.png
@@ -1094,7 +1084,7 @@
   link:
     url: http://dx.doi.org/10.1136/jmg.35.7.558
     display:   J Med Genet, 35 558-65.(1998)
-  highlight: 1
+  highlight: 0
 
 - title: "Control of mitochondrial beta-oxidation: sensitivity of the trifunctional protein to [NAD+]/[NADH] and [acetyl-CoA]/[CoA]" 
   image: placeholder.png
@@ -1103,7 +1093,7 @@
   link:
     url: http://dx.doi.org/10.1016/s0167-4838(98)00246-5
     display:   Biochim Biophys Acta, 1429 230-8.(1998)
-  highlight: 1
+  highlight: 0
 
 - title: "The effect of respiratory chain impairment of beta-oxidation in rat heart mitochondria" 
   image: placeholder.png
@@ -1112,7 +1102,7 @@
   link:
     url: http://dx.doi.org/10.1042/bj3190633
     display:   Biochemical Journal, 319 ( Pt 2) 633-40.(1996)
-  highlight: 1
+  highlight: 0
 
 - title: "beta-Oxidation in human alcoholic and non-alcoholic hepatic steatosis" 
   image: placeholder.png
@@ -1121,7 +1111,7 @@
   link:
     url: http://dx.doi.org/10.1042/cs0900307
     display:   Clin Sci (Lond), 90 307-13.(1996)
-  highlight: 1
+  highlight: 0
 
 - title: "An HPLC assay for sn-1,2-diacylglycerol" 
   image: placeholder.png
@@ -1130,7 +1120,7 @@
   link:
     url: http://dx.doi.org/10.1016/0009-8981(94)05799-x
     display:   Clin Chim Acta, 234 71-8.(1995)
-  highlight: 1
+  highlight: 0
 
 - title: "Redox control of beta-oxidation in rat liver mitochondria" 
   image: placeholder.png
@@ -1139,7 +1129,7 @@
   link:
     url: http://dx.doi.org/10.1111/j.1432-1033.1994.tb18668.x
     display:   Eur J Biochem, 220 671-81.(1994)
-  highlight: 1
+  highlight: 0
 
 - title: "Investigation of beta-oxidation in human liver biopsies" 
   image: placeholder.png
@@ -1148,7 +1138,7 @@
   link:
     url: http://dx.doi.org/10.1016/0009-8981(93)90050-e
     display:   Clin Chim Acta, 220 219-24.(1993)
-  highlight: 1
+  highlight: 0
 
 - title: "Intramitochondrial control of the oxidation of hexadecanoate in skeletal muscle. A study of the acyl-CoA esters which accumulate during rat skeletal-muscle mitochondrial beta-oxidation of [U-14C]hexadecanoate and [U-14C]hexadecanoyl-carnitine" 
   image: placeholder.png
@@ -1157,7 +1147,7 @@
   link:
     url: http://dx.doi.org/10.1042/bj2890161
     display:   Biochemical Journal, 289 ( Pt 1) 161-8.(1993)
-  highlight: 1
+  highlight: 0
 
 - title: "Quantitation of acyl-CoA and acylcarnitine esters accumulated during abnormal mitochondrial fatty acid oxidation" 
   image: placeholder.png
@@ -1166,7 +1156,7 @@
   link:
     url:     
     display:   J Biol Chem, 266 22932-8.(1991)
-  highlight: 1
+  highlight: 0
 
 - title: "Intermediates of peroxisomal beta-oxidation. A study of the fatty acyl-CoA esters which accumulate during peroxisomal beta-oxidation of [U-14C]hexadecanoate" 
   image: placeholder.png
@@ -1175,5 +1165,5 @@
   link:
     url: http://dx.doi.org/10.1042/bj2700175
     display:   Biochemical Journal, 270 175-80.(1990)
-  highlight: 1
+  highlight: 0
 
